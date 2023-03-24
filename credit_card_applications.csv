@@ -1,1001 +1,1001 @@
-id,Income,Age,Education,Occupation,Marital Status,Approval Status
-1,228394,70,Sales,Junior Executive,Single,Not Approved
-2,4813224,21,Research and Development,VP Product Management,Single,Approved
-3,3648641,58,Marketing,Research Nurse,Married,Approved
-4,8386990,69,Product Management,Executive Secretary,Married,Approved
-5,5805848,62,Marketing,Sales Representative,Married,Approved
-6,7859007,46,Human Resources,Structural Analysis Engineer,Single,Approved
-7,3247059,67,Support,Geological Engineer,Married,Approved
-8,3673211,73,Engineering,Budget/Accounting Analyst I,Married,Approved
-9,8226820,82,Sales,Internal Auditor,Married,Approved
-10,5760791,25,Marketing,Programmer Analyst II,Single,Approved
-11,7470395,22,Accounting,Help Desk Operator,Single,Approved
-12,4069065,47,Legal,Nurse,Single,Approved
-13,8109142,77,Marketing,Research Associate,Single,Not Approved
-14,220305,32,Accounting,Teacher,Single,Approved
-15,3471432,92,Sales,Safety Technician II,Single,Not Approved
-16,6942871,20,Legal,Database Administrator III,Single,Not Approved
-17,3118724,28,Sales,Civil Engineer,Single,Approved
-18,2266953,28,Product Management,Staff Scientist,Single,Not Approved
-19,2516227,76,Business Development,Professor,Married,Approved
-20,2747097,71,Sales,Help Desk Operator,Single,Not Approved
-21,6775812,53,Accounting,Software Test Engineer III,Single,Not Approved
-22,6914240,29,Support,Programmer Analyst I,Married,Approved
-23,5305451,49,Accounting,Assistant Professor,Married,Not Approved
-24,7702950,30,Human Resources,Project Manager,Married,Not Approved
-25,4590665,90,Support,Quality Control Specialist,Single,Not Approved
-26,3333702,80,Support,Developer II,Single,Approved
-27,622832,23,Sales,Professor,Single,Approved
-28,4852694,56,Engineering,Help Desk Technician,Single,Approved
-29,1893333,100,Human Resources,VP Sales,Married,Approved
-30,3745823,88,Product Management,Quality Engineer,Single,Approved
-31,111903,35,Accounting,Nuclear Power Engineer,Single,Approved
-32,1294406,68,Research and Development,VP Product Management,Married,Approved
-33,1606541,98,Accounting,Senior Sales Associate,Single,Not Approved
-34,9640911,67,Training,Account Executive,Single,Approved
-35,5072031,68,Legal,Technical Writer,Married,Approved
-36,4557360,74,Business Development,Electrical Engineer,Married,Not Approved
-37,8076683,49,Human Resources,Nurse,Married,Approved
-38,1732097,49,Legal,Assistant Professor,Single,Not Approved
-39,7616313,29,Engineering,Software Test Engineer II,Single,Not Approved
-40,1728203,44,Product Management,Recruiter,Married,Approved
-41,7843461,63,Sales,Safety Technician I,Married,Approved
-42,8662491,42,Accounting,Environmental Specialist,Married,Not Approved
-43,7805451,73,Accounting,Associate Professor,Married,Not Approved
-44,4121576,41,Training,Help Desk Technician,Single,Approved
-45,905584,56,Human Resources,Marketing Assistant,Single,Not Approved
-46,6675147,64,Research and Development,Analyst Programmer,Married,Not Approved
-47,962425,60,Accounting,Software Test Engineer III,Single,Approved
-48,9196220,36,Support,Paralegal,Single,Approved
-49,3642299,48,Services,Environmental Specialist,Single,Approved
-50,1017590,94,Research and Development,Product Engineer,Married,Not Approved
-51,250109,43,Support,Junior Executive,Single,Not Approved
-52,5646154,85,Marketing,Clinical Specialist,Married,Approved
-53,2134215,37,Product Management,Analog Circuit Design manager,Married,Not Approved
-54,7293417,52,Marketing,Paralegal,Single,Approved
-55,8080978,75,Training,Food Chemist,Single,Approved
-56,2544823,76,Training,VP Sales,Single,Approved
-57,2019265,56,Marketing,Teacher,Single,Approved
-58,3445854,95,Accounting,Biostatistician II,Single,Approved
-59,9464182,36,Accounting,Senior Developer,Married,Approved
-60,5220710,63,Legal,Environmental Specialist,Single,Approved
-61,5355471,86,Support,Registered Nurse,Married,Approved
-62,5253373,23,Engineering,Nurse,Married,Not Approved
-63,5652398,88,Support,Research Assistant IV,Single,Approved
-64,1971252,92,Support,Registered Nurse,Married,Approved
-65,6313155,62,Business Development,Accountant IV,Married,Not Approved
-66,3683837,33,Support,Developer III,Married,Not Approved
-67,1394034,22,Legal,Nurse,Single,Approved
-68,4188252,66,Support,Chief Design Engineer,Married,Approved
-69,5405045,53,Legal,Mechanical Systems Engineer,Single,Approved
-70,7561939,51,Research and Development,Sales Associate,Married,Approved
-71,53435,64,Training,Senior Cost Accountant,Single,Not Approved
-72,8129211,41,Human Resources,Senior Editor,Single,Approved
-73,4684070,65,Business Development,Nurse Practicioner,Single,Approved
-74,2380060,26,Legal,Software Test Engineer III,Single,Not Approved
-75,5156401,55,Product Management,VP Marketing,Married,Approved
-76,272429,93,Services,Senior Cost Accountant,Single,Approved
-77,8030995,34,Engineering,GIS Technical Architect,Married,Not Approved
-78,388967,78,Training,General Manager,Married,Approved
-79,1094612,24,Services,Cost Accountant,Single,Approved
-80,2187333,47,Accounting,Social Worker,Married,Approved
-81,9559542,94,Accounting,Business Systems Development Analyst,Married,Not Approved
-82,1758979,35,Product Management,Administrative Officer,Single,Approved
-83,5069853,26,Research and Development,Professor,Married,Not Approved
-84,9817958,42,Research and Development,Senior Developer,Single,Approved
-85,1795872,76,Engineering,Desktop Support Technician,Single,Approved
-86,2185278,28,Marketing,Technical Writer,Single,Approved
-87,6885088,20,Marketing,Database Administrator II,Married,Approved
-88,3230781,42,Support,Desktop Support Technician,Married,Not Approved
-89,6375023,82,Legal,Graphic Designer,Single,Approved
-90,4700741,93,Product Management,Social Worker,Single,Not Approved
-91,7065246,20,Product Management,Editor,Single,Not Approved
-92,9270823,77,Marketing,Physical Therapy Assistant,Single,Approved
-93,7648592,65,Engineering,Automation Specialist II,Married,Approved
-94,5771408,27,Business Development,Health Coach III,Single,Approved
-95,7795822,66,Research and Development,Occupational Therapist,Single,Approved
-96,9477690,94,Accounting,Technical Writer,Married,Not Approved
-97,3946752,34,Services,Operator,Single,Not Approved
-98,2782794,47,Training,Administrative Officer,Single,Not Approved
-99,5150037,35,Sales,Administrative Assistant II,Single,Approved
-100,5720574,41,Services,Paralegal,Single,Not Approved
-101,5989888,94,Research and Development,VP Accounting,Married,Not Approved
-102,3721366,93,Engineering,Graphic Designer,Married,Not Approved
-103,4831049,87,Research and Development,Electrical Engineer,Single,Approved
-104,1601080,25,Services,Recruiting Manager,Single,Not Approved
-105,6519727,39,Legal,Physical Therapy Assistant,Married,Not Approved
-106,2745694,56,Product Management,Legal Assistant,Single,Approved
-107,2509654,20,Marketing,Senior Editor,Married,Approved
-108,6067926,98,Marketing,Senior Cost Accountant,Single,Not Approved
-109,4558333,39,Research and Development,Electrical Engineer,Married,Approved
-110,9331178,28,Marketing,Sales Associate,Married,Approved
-111,4906065,57,Engineering,Environmental Specialist,Married,Approved
-112,5398679,98,Marketing,Paralegal,Single,Not Approved
-113,4417794,60,Support,Programmer III,Married,Not Approved
-114,4669442,56,Sales,Physical Therapy Assistant,Married,Not Approved
-115,8739552,34,Support,Database Administrator II,Married,Approved
-116,6977487,97,Human Resources,Actuary,Single,Approved
-117,7644484,27,Services,VP Accounting,Married,Approved
-118,8930312,55,Business Development,Civil Engineer,Single,Not Approved
-119,9426747,22,Services,Associate Professor,Single,Approved
-120,7275578,71,Sales,Marketing Assistant,Married,Approved
-121,2787336,51,Accounting,Nuclear Power Engineer,Single,Approved
-122,1621906,100,Marketing,GIS Technical Architect,Single,Approved
-123,1737144,22,Legal,Financial Analyst,Single,Not Approved
-124,4123125,53,Sales,Project Manager,Single,Not Approved
-125,8377883,89,Engineering,Staff Accountant II,Married,Approved
-126,1272898,81,Services,Web Designer II,Single,Approved
-127,6246738,63,Sales,Internal Auditor,Married,Not Approved
-128,2983632,27,Services,Office Assistant I,Single,Approved
-129,6583561,30,Services,Web Developer IV,Single,Not Approved
-130,6858771,21,Engineering,Product Engineer,Single,Not Approved
-131,1523600,81,Marketing,Technical Writer,Married,Approved
-132,1771975,87,Services,Sales Associate,Single,Approved
-133,7025216,96,Sales,Analog Circuit Design manager,Married,Not Approved
-134,2233978,59,Engineering,Nuclear Power Engineer,Married,Approved
-135,7162747,25,Sales,Account Coordinator,Single,Approved
-136,5153183,25,Marketing,Social Worker,Married,Approved
-137,7199872,81,Services,Health Coach III,Single,Approved
-138,5778108,93,Product Management,Automation Specialist I,Married,Approved
-139,294873,72,Accounting,Marketing Manager,Married,Not Approved
-140,4168013,50,Research and Development,Health Coach I,Single,Approved
-141,7182906,33,Marketing,Nurse Practicioner,Single,Not Approved
-142,7185909,28,Engineering,Internal Auditor,Married,Approved
-143,9134192,34,Product Management,Database Administrator I,Married,Not Approved
-144,5822222,62,Engineering,VP Product Management,Single,Approved
-145,1701278,35,Services,Biostatistician II,Single,Not Approved
-146,8473452,44,Business Development,Payment Adjustment Coordinator,Married,Not Approved
-147,8952659,58,Support,Mechanical Systems Engineer,Married,Approved
-148,1366816,27,Engineering,Business Systems Development Analyst,Married,Approved
-149,3784493,61,Services,Senior Cost Accountant,Married,Approved
-150,4827475,86,Human Resources,Programmer III,Married,Approved
-151,7826882,55,Product Management,Account Executive,Single,Not Approved
-152,8001304,57,Training,Chief Design Engineer,Single,Approved
-153,9470099,34,Business Development,Assistant Media Planner,Single,Approved
-154,5939989,62,Human Resources,Senior Quality Engineer,Single,Approved
-155,4617559,31,Marketing,Health Coach III,Single,Not Approved
-156,273172,39,Services,Senior Developer,Married,Approved
-157,9650736,92,Support,Engineer II,Single,Approved
-158,1583382,43,Engineering,Compensation Analyst,Married,Not Approved
-159,224619,20,Accounting,Environmental Specialist,Married,Approved
-160,6727208,84,Product Management,Web Developer I,Single,Not Approved
-161,591168,45,Business Development,Nuclear Power Engineer,Married,Not Approved
-162,9977686,86,Product Management,Geologist III,Single,Not Approved
-163,5778136,34,Research and Development,Internal Auditor,Married,Not Approved
-164,4793743,100,Sales,Marketing Assistant,Single,Approved
-165,8701171,45,Training,Nuclear Power Engineer,Single,Approved
-166,719415,80,Marketing,Physical Therapy Assistant,Married,Not Approved
-167,4577481,83,Business Development,Assistant Media Planner,Married,Approved
-168,4319985,53,Marketing,Environmental Tech,Married,Not Approved
-169,6316379,39,Services,Executive Secretary,Single,Approved
-170,1292258,79,Product Management,VP Sales,Married,Not Approved
-171,6636174,44,Research and Development,VP Product Management,Married,Approved
-172,5431226,47,Services,Web Designer IV,Single,Not Approved
-173,7668710,51,Product Management,Human Resources Assistant III,Single,Approved
-174,2089189,65,Sales,Senior Editor,Married,Not Approved
-175,7326042,96,Engineering,Research Nurse,Single,Approved
-176,8623791,29,Training,Operator,Married,Not Approved
-177,9740461,36,Human Resources,Database Administrator II,Single,Approved
-178,4443798,95,Engineering,Payment Adjustment Coordinator,Single,Approved
-179,1779891,70,Training,Human Resources Manager,Married,Not Approved
-180,9564076,79,Engineering,Financial Advisor,Married,Approved
-181,1470158,55,Product Management,Staff Scientist,Single,Approved
-182,9709640,45,Sales,Assistant Professor,Married,Not Approved
-183,3035318,64,Business Development,Analog Circuit Design manager,Married,Not Approved
-184,3454834,78,Human Resources,Civil Engineer,Married,Approved
-185,7721495,97,Legal,Nurse,Single,Approved
-186,2123593,51,Services,Database Administrator I,Married,Not Approved
-187,4902066,53,Legal,Senior Developer,Married,Not Approved
-188,6573796,67,Marketing,Executive Secretary,Single,Approved
-189,7232664,31,Services,Nurse,Married,Approved
-190,8081585,64,Engineering,Tax Accountant,Single,Approved
-191,3266026,81,Sales,Software Test Engineer II,Married,Not Approved
-192,6968643,40,Accounting,Assistant Manager,Married,Approved
-193,5185017,97,Legal,Software Consultant,Married,Not Approved
-194,3420792,50,Training,Assistant Manager,Single,Approved
-195,8461919,85,Product Management,Web Designer IV,Single,Approved
-196,5650278,78,Legal,Business Systems Development Analyst,Married,Not Approved
-197,307881,50,Services,Staff Accountant IV,Single,Approved
-198,784130,61,Accounting,Accounting Assistant III,Single,Approved
-199,8271384,50,Sales,Media Manager I,Single,Not Approved
-200,4068576,48,Legal,Structural Analysis Engineer,Married,Not Approved
-201,6586031,22,Engineering,Research Assistant III,Single,Approved
-202,2729364,89,Training,Geologist II,Single,Approved
-203,9594677,74,Engineering,VP Sales,Married,Approved
-204,7926862,93,Services,Assistant Media Planner,Married,Not Approved
-205,2841352,64,Engineering,Junior Executive,Single,Approved
-206,5348913,66,Business Development,Staff Scientist,Single,Not Approved
-207,1695963,45,Business Development,Editor,Married,Approved
-208,2847777,44,Engineering,Chief Design Engineer,Married,Not Approved
-209,6281865,94,Sales,Account Representative II,Single,Not Approved
-210,7438550,31,Product Management,Design Engineer,Single,Not Approved
-211,5657362,48,Legal,GIS Technical Architect,Single,Not Approved
-212,1421517,60,Business Development,Help Desk Technician,Married,Not Approved
-213,7379799,79,Engineering,VP Marketing,Married,Approved
-214,5989736,30,Legal,Chief Design Engineer,Married,Not Approved
-215,171453,42,Human Resources,Senior Cost Accountant,Married,Approved
-216,8667394,62,Support,Quality Engineer,Married,Approved
-217,6819160,68,Training,Assistant Media Planner,Single,Not Approved
-218,4696972,46,Training,Analog Circuit Design manager,Single,Not Approved
-219,299843,31,Engineering,Social Worker,Married,Not Approved
-220,3776225,27,Accounting,Office Assistant II,Married,Approved
-221,3275028,60,Business Development,Office Assistant I,Single,Not Approved
-222,6769296,99,Marketing,Web Designer I,Single,Approved
-223,5391212,99,Research and Development,Structural Analysis Engineer,Single,Not Approved
-224,7235965,67,Research and Development,Staff Accountant IV,Single,Approved
-225,4286477,88,Business Development,Human Resources Manager,Married,Not Approved
-226,4435533,21,Services,Systems Administrator III,Married,Not Approved
-227,5036992,58,Engineering,Analyst Programmer,Married,Approved
-228,812781,69,Legal,Teacher,Single,Not Approved
-229,7397660,66,Legal,Senior Sales Associate,Married,Not Approved
-230,9052047,60,Training,Librarian,Single,Not Approved
-231,2778156,95,Services,Associate Professor,Single,Approved
-232,8036748,60,Product Management,Accounting Assistant III,Single,Not Approved
-233,4814640,95,Services,Senior Sales Associate,Single,Not Approved
-234,5579596,62,Business Development,Structural Analysis Engineer,Married,Not Approved
-235,9324250,26,Product Management,Sales Associate,Single,Not Approved
-236,5063801,41,Marketing,Senior Developer,Married,Not Approved
-237,5784446,67,Human Resources,Food Chemist,Married,Approved
-238,6906602,45,Marketing,Marketing Assistant,Married,Not Approved
-239,581954,46,Legal,Assistant Professor,Single,Approved
-240,8398631,82,Support,Analog Circuit Design manager,Single,Approved
-241,4788940,47,Human Resources,Human Resources Assistant IV,Married,Not Approved
-242,8797822,72,Human Resources,Sales Representative,Single,Approved
-243,6988841,88,Accounting,Programmer Analyst I,Married,Approved
-244,6359689,35,Research and Development,Internal Auditor,Single,Not Approved
-245,9802916,28,Sales,Marketing Assistant,Single,Approved
-246,1603349,42,Legal,Automation Specialist I,Married,Not Approved
-247,8052917,73,Training,Junior Executive,Married,Approved
-248,1269128,73,Human Resources,Executive Secretary,Married,Approved
-249,8948726,87,Legal,Operator,Single,Approved
-250,4931951,90,Training,Analyst Programmer,Married,Not Approved
-251,1258539,65,Research and Development,VP Accounting,Married,Not Approved
-252,3980934,91,Business Development,Nuclear Power Engineer,Married,Not Approved
-253,5418024,80,Services,Senior Quality Engineer,Married,Approved
-254,8214086,20,Marketing,Assistant Media Planner,Married,Approved
-255,5411338,89,Marketing,Senior Cost Accountant,Single,Not Approved
-256,8311041,55,Sales,Web Developer III,Married,Not Approved
-257,5562185,40,Business Development,Legal Assistant,Married,Approved
-258,8519912,81,Training,Chief Design Engineer,Single,Approved
-259,4548688,37,Marketing,Community Outreach Specialist,Single,Not Approved
-260,845873,22,Product Management,Data Coordiator,Single,Approved
-261,785600,50,Human Resources,Executive Secretary,Single,Not Approved
-262,7477752,93,Sales,Assistant Professor,Single,Approved
-263,1121415,61,Human Resources,Teacher,Married,Not Approved
-264,8036178,91,Engineering,Health Coach III,Single,Not Approved
-265,9061987,76,Support,Marketing Manager,Single,Approved
-266,3565659,27,Support,Senior Editor,Single,Approved
-267,3340094,83,Business Development,Environmental Tech,Single,Approved
-268,497043,27,Product Management,Administrative Assistant III,Single,Not Approved
-269,1423555,34,Accounting,Safety Technician I,Single,Not Approved
-270,4805275,81,Marketing,Tax Accountant,Single,Not Approved
-271,9647747,83,Sales,Social Worker,Married,Not Approved
-272,8430269,30,Research and Development,Operator,Single,Approved
-273,7250060,100,Services,Human Resources Assistant III,Married,Not Approved
-274,2436651,36,Business Development,Chief Design Engineer,Married,Not Approved
-275,1448361,34,Services,Assistant Manager,Married,Approved
-276,4915556,93,Human Resources,Software Test Engineer I,Married,Approved
-277,4490377,39,Marketing,Web Designer I,Married,Not Approved
-278,4802415,31,Product Management,Help Desk Technician,Married,Not Approved
-279,457861,90,Engineering,Systems Administrator I,Married,Approved
-280,3046473,82,Support,Financial Advisor,Single,Not Approved
-281,1318298,88,Legal,Quality Control Specialist,Single,Approved
-282,8646714,28,Engineering,Quality Engineer,Single,Not Approved
-283,6375473,40,Support,Database Administrator IV,Married,Approved
-284,8347861,96,Training,Social Worker,Married,Not Approved
-285,8059869,77,Accounting,General Manager,Single,Not Approved
-286,2006907,88,Sales,Payment Adjustment Coordinator,Single,Approved
-287,5059578,34,Business Development,Electrical Engineer,Married,Approved
-288,9254416,58,Legal,VP Marketing,Single,Not Approved
-289,7418587,77,Engineering,Director of Sales,Married,Approved
-290,2604128,20,Research and Development,Marketing Manager,Single,Not Approved
-291,3835469,88,Human Resources,Software Test Engineer II,Single,Not Approved
-292,3041024,42,Product Management,Internal Auditor,Married,Approved
-293,1739646,73,Human Resources,Office Assistant I,Married,Approved
-294,7941835,71,Human Resources,Human Resources Manager,Single,Not Approved
-295,967022,58,Legal,Data Coordiator,Married,Approved
-296,1332297,29,Services,Marketing Manager,Single,Approved
-297,4510893,57,Research and Development,Geologist II,Married,Approved
-298,4601391,60,Support,Quality Engineer,Single,Approved
-299,4969895,65,Legal,Data Coordiator,Married,Approved
-300,7495117,75,Engineering,Junior Executive,Married,Not Approved
-301,9631707,20,Engineering,Computer Systems Analyst III,Single,Approved
-302,351637,57,Legal,Editor,Married,Approved
-303,9330880,32,Business Development,Chief Design Engineer,Married,Not Approved
-304,9480901,61,Marketing,Desktop Support Technician,Single,Not Approved
-305,1791820,98,Training,VP Quality Control,Single,Approved
-306,3450988,95,Human Resources,Systems Administrator III,Married,Not Approved
-307,5100692,65,Research and Development,Chief Design Engineer,Married,Approved
-308,8041180,45,Services,Account Coordinator,Married,Approved
-309,8549197,85,Product Management,Sales Representative,Single,Not Approved
-310,3035500,54,Training,Social Worker,Single,Not Approved
-311,7259791,65,Research and Development,Occupational Therapist,Single,Not Approved
-312,6800796,77,Legal,VP Product Management,Married,Approved
-313,3238191,45,Legal,Help Desk Technician,Single,Approved
-314,8179686,42,Human Resources,Quality Engineer,Married,Approved
-315,612681,55,Research and Development,Actuary,Single,Not Approved
-316,3515048,92,Accounting,Mechanical Systems Engineer,Married,Approved
-317,8201908,91,Product Management,Web Developer II,Single,Approved
-318,422005,49,Services,Media Manager I,Married,Not Approved
-319,4335688,82,Engineering,Chief Design Engineer,Married,Approved
-320,8923533,33,Support,Human Resources Manager,Single,Not Approved
-321,1254619,57,Human Resources,Health Coach II,Single,Not Approved
-322,653129,70,Support,Senior Quality Engineer,Married,Not Approved
-323,3893500,90,Accounting,Computer Systems Analyst III,Single,Not Approved
-324,8319085,24,Services,Electrical Engineer,Single,Not Approved
-325,1972187,42,Support,Recruiting Manager,Single,Approved
-326,8849742,92,Training,Actuary,Single,Approved
-327,5000567,29,Legal,Technical Writer,Single,Approved
-328,9403757,70,Support,Assistant Manager,Single,Not Approved
-329,2366433,90,Sales,Accountant I,Single,Not Approved
-330,1488516,47,Research and Development,Occupational Therapist,Single,Approved
-331,9342856,24,Business Development,Structural Engineer,Single,Not Approved
-332,5405667,86,Accounting,Chemical Engineer,Married,Approved
-333,9205017,35,Accounting,Nurse Practicioner,Married,Not Approved
-334,5032154,23,Engineering,Internal Auditor,Married,Approved
-335,1305657,69,Support,Programmer Analyst IV,Married,Not Approved
-336,8017119,88,Accounting,Desktop Support Technician,Married,Approved
-337,8095606,65,Product Management,Administrative Officer,Married,Not Approved
-338,1491900,29,Research and Development,Technical Writer,Married,Approved
-339,6180652,63,Accounting,Developer I,Single,Approved
-340,4758936,49,Legal,Cost Accountant,Married,Not Approved
-341,2066044,25,Business Development,Senior Editor,Single,Not Approved
-342,65106,32,Support,Cost Accountant,Single,Approved
-343,4216202,52,Training,Paralegal,Married,Not Approved
-344,3932877,20,Human Resources,Technical Writer,Married,Approved
-345,5342559,27,Support,Clinical Specialist,Married,Not Approved
-346,7258967,96,Training,Senior Cost Accountant,Married,Not Approved
-347,7578725,67,Research and Development,VP Product Management,Single,Approved
-348,7096258,51,Product Management,Professor,Single,Not Approved
-349,406997,49,Business Development,VP Accounting,Single,Not Approved
-350,4730444,65,Research and Development,Web Designer IV,Married,Approved
-351,5100433,78,Legal,Software Consultant,Married,Not Approved
-352,6012557,35,Marketing,Technical Writer,Single,Approved
-353,3766772,86,Research and Development,Accountant IV,Single,Approved
-354,7139732,80,Services,Professor,Married,Approved
-355,837430,81,Engineering,Human Resources Assistant III,Married,Approved
-356,1499528,74,Marketing,Senior Sales Associate,Married,Not Approved
-357,107899,48,Legal,Administrative Officer,Married,Not Approved
-358,7925269,61,Product Management,Administrative Assistant II,Married,Approved
-359,3180466,87,Business Development,Human Resources Assistant II,Married,Approved
-360,1144173,57,Engineering,Engineer IV,Single,Approved
-361,7380987,56,Marketing,Staff Accountant I,Single,Approved
-362,8928979,73,Support,Electrical Engineer,Single,Not Approved
-363,2160473,66,Accounting,Web Developer II,Married,Approved
-364,3349145,66,Engineering,Senior Editor,Single,Not Approved
-365,3150683,38,Sales,Director of Sales,Single,Not Approved
-366,9035419,79,Product Management,Structural Analysis Engineer,Married,Not Approved
-367,5328044,26,Sales,Marketing Manager,Married,Approved
-368,1056098,34,Marketing,Analyst Programmer,Single,Approved
-369,9418921,66,Product Management,Web Developer II,Single,Not Approved
-370,4079893,73,Engineering,Recruiting Manager,Single,Approved
-371,1771753,92,Research and Development,Media Manager II,Single,Not Approved
-372,1315473,27,Sales,Paralegal,Single,Not Approved
-373,4844136,90,Training,Physical Therapy Assistant,Married,Approved
-374,3238692,59,Support,Nuclear Power Engineer,Single,Not Approved
-375,112524,91,Human Resources,Junior Executive,Single,Not Approved
-376,3592457,99,Services,Media Manager I,Married,Not Approved
-377,7610410,68,Accounting,VP Accounting,Married,Approved
-378,8761358,77,Engineering,Environmental Tech,Married,Approved
-379,134919,97,Services,Physical Therapy Assistant,Single,Approved
-380,6075346,39,Services,Help Desk Operator,Single,Approved
-381,9537472,72,Services,Compensation Analyst,Single,Not Approved
-382,989749,97,Legal,Administrative Officer,Married,Not Approved
-383,720187,20,Accounting,Statistician III,Married,Not Approved
-384,7831612,97,Support,Sales Associate,Single,Approved
-385,733006,23,Business Development,Administrative Assistant III,Married,Approved
-386,6985833,28,Business Development,Sales Representative,Single,Approved
-387,5162475,24,Legal,Assistant Media Planner,Married,Approved
-388,6910305,95,Support,Environmental Specialist,Married,Not Approved
-389,7252968,91,Engineering,Human Resources Assistant IV,Single,Approved
-390,5435049,79,Engineering,Media Manager III,Married,Approved
-391,3499114,42,Services,Recruiter,Married,Approved
-392,6200864,45,Research and Development,Research Nurse,Married,Not Approved
-393,2065309,31,Sales,Accounting Assistant IV,Single,Approved
-394,82959,76,Support,Financial Analyst,Single,Approved
-395,1602082,78,Legal,Mechanical Systems Engineer,Married,Approved
-396,7829209,77,Engineering,GIS Technical Architect,Married,Approved
-397,4964774,32,Legal,Design Engineer,Single,Not Approved
-398,2427681,69,Marketing,Database Administrator I,Married,Approved
-399,52643,78,Legal,Product Engineer,Married,Approved
-400,3800839,82,Human Resources,Nuclear Power Engineer,Married,Not Approved
-401,1421900,66,Human Resources,Research Nurse,Single,Not Approved
-402,107257,61,Engineering,Safety Technician I,Married,Approved
-403,6644134,78,Accounting,Administrative Assistant IV,Single,Approved
-404,1020699,77,Engineering,Budget/Accounting Analyst IV,Single,Approved
-405,8773368,98,Marketing,Nurse,Married,Not Approved
-406,1109124,39,Training,Biostatistician I,Single,Not Approved
-407,1357702,69,Research and Development,Developer II,Married,Approved
-408,3480055,63,Business Development,Safety Technician II,Married,Approved
-409,8116324,87,Legal,Operator,Single,Not Approved
-410,2937289,65,Research and Development,Software Test Engineer II,Married,Approved
-411,3673925,65,Human Resources,Recruiting Manager,Single,Not Approved
-412,2689942,66,Support,Senior Financial Analyst,Married,Approved
-413,1953599,28,Sales,Assistant Manager,Single,Approved
-414,8010150,85,Legal,Software Consultant,Single,Approved
-415,5925957,92,Legal,Systems Administrator II,Married,Not Approved
-416,9891033,55,Support,Statistician I,Married,Not Approved
-417,8356030,68,Services,Data Coordiator,Single,Not Approved
-418,4230978,64,Training,Teacher,Married,Not Approved
-419,3816962,93,Business Development,Geologist IV,Single,Approved
-420,8542481,93,Legal,Account Executive,Married,Approved
-421,1242785,23,Business Development,Accounting Assistant IV,Married,Not Approved
-422,1017056,22,Support,Statistician II,Single,Approved
-423,2789752,50,Business Development,Food Chemist,Married,Not Approved
-424,5512350,58,Human Resources,Human Resources Manager,Married,Not Approved
-425,9236003,69,Human Resources,Information Systems Manager,Single,Not Approved
-426,6875985,37,Human Resources,Sales Representative,Single,Not Approved
-427,6715476,59,Marketing,GIS Technical Architect,Married,Not Approved
-428,3397277,59,Research and Development,Internal Auditor,Married,Approved
-429,8326299,36,Engineering,Physical Therapy Assistant,Married,Approved
-430,613474,39,Sales,Health Coach II,Married,Approved
-431,5060615,86,Services,Systems Administrator II,Married,Not Approved
-432,7197777,25,Training,Civil Engineer,Single,Not Approved
-433,7420855,91,Legal,Senior Developer,Single,Not Approved
-434,8540067,84,Engineering,Clinical Specialist,Single,Approved
-435,7817096,85,Human Resources,Research Nurse,Married,Approved
-436,6764976,80,Product Management,Help Desk Technician,Married,Not Approved
-437,580330,46,Engineering,Assistant Professor,Married,Approved
-438,654362,49,Research and Development,Registered Nurse,Married,Approved
-439,2015037,67,Human Resources,Food Chemist,Single,Approved
-440,4036365,82,Engineering,Statistician II,Single,Approved
-441,6798627,82,Legal,General Manager,Married,Not Approved
-442,2190839,91,Marketing,Junior Executive,Single,Approved
-443,9763229,98,Marketing,Budget/Accounting Analyst III,Single,Approved
-444,9924758,49,Human Resources,Tax Accountant,Single,Approved
-445,5338887,41,Human Resources,Product Engineer,Single,Not Approved
-446,5741224,78,Sales,Social Worker,Single,Approved
-447,4734788,62,Research and Development,Nurse Practicioner,Single,Not Approved
-448,7537154,68,Business Development,Mechanical Systems Engineer,Married,Not Approved
-449,2047011,22,Business Development,Software Engineer IV,Single,Approved
-450,6172695,83,Human Resources,Actuary,Married,Not Approved
-451,7361347,71,Human Resources,Actuary,Single,Approved
-452,5534164,85,Human Resources,Account Coordinator,Single,Approved
-453,6987147,100,Human Resources,GIS Technical Architect,Married,Approved
-454,6177744,59,Accounting,Software Consultant,Married,Not Approved
-455,1010234,86,Product Management,Sales Representative,Single,Not Approved
-456,8558451,59,Human Resources,Office Assistant II,Married,Not Approved
-457,2209356,67,Marketing,Geologist I,Married,Not Approved
-458,7767547,93,Sales,VP Quality Control,Married,Approved
-459,2146134,58,Business Development,Physical Therapy Assistant,Single,Approved
-460,489687,42,Research and Development,Clinical Specialist,Single,Not Approved
-461,7383334,50,Support,Pharmacist,Single,Not Approved
-462,7528459,80,Sales,Programmer I,Single,Approved
-463,3423357,34,Services,Software Consultant,Single,Not Approved
-464,1808176,81,Training,Internal Auditor,Married,Approved
-465,5374801,57,Training,Database Administrator II,Married,Approved
-466,253438,22,Engineering,VP Accounting,Married,Approved
-467,6653611,53,Legal,Recruiting Manager,Married,Not Approved
-468,9645438,53,Sales,Legal Assistant,Single,Approved
-469,7121360,65,Support,Pharmacist,Single,Not Approved
-470,9212233,57,Engineering,Analyst Programmer,Married,Not Approved
-471,3464929,98,Services,Electrical Engineer,Single,Not Approved
-472,4000860,83,Sales,Administrative Assistant I,Single,Not Approved
-473,4814394,70,Accounting,Staff Accountant III,Single,Not Approved
-474,9140150,40,Product Management,Professor,Single,Not Approved
-475,1402644,80,Engineering,Financial Analyst,Married,Approved
-476,9227922,31,Legal,Graphic Designer,Married,Approved
-477,609248,79,Services,Automation Specialist II,Single,Not Approved
-478,1841315,56,Research and Development,Actuary,Single,Approved
-479,6209414,70,Engineering,Tax Accountant,Married,Approved
-480,5247208,80,Training,Electrical Engineer,Married,Approved
-481,8661308,81,Engineering,Financial Advisor,Married,Approved
-482,6367242,93,Services,Statistician II,Single,Approved
-483,3138964,22,Sales,Sales Associate,Married,Approved
-484,4202530,71,Sales,Accounting Assistant II,Married,Not Approved
-485,5176276,82,Accounting,Senior Sales Associate,Married,Approved
-486,5655737,64,Legal,Registered Nurse,Married,Approved
-487,2941596,40,Sales,Geologist III,Single,Approved
-488,7373206,46,Sales,Research Assistant I,Single,Approved
-489,6737208,20,Training,Design Engineer,Married,Not Approved
-490,9023095,36,Services,Safety Technician I,Married,Approved
-491,6502424,68,Legal,Human Resources Assistant I,Single,Not Approved
-492,4280505,94,Sales,Project Manager,Married,Approved
-493,1079379,32,Legal,Office Assistant I,Single,Approved
-494,1960822,25,Accounting,Speech Pathologist,Married,Not Approved
-495,3088725,73,Services,Business Systems Development Analyst,Single,Not Approved
-496,1049183,89,Engineering,Desktop Support Technician,Married,Approved
-497,6280210,74,Sales,Geologist IV,Single,Approved
-498,2082396,71,Business Development,Nurse Practicioner,Single,Approved
-499,921735,64,Human Resources,Senior Quality Engineer,Single,Not Approved
-500,880167,41,Services,VP Sales,Single,Approved
-501,9429339,75,Human Resources,Programmer I,Single,Approved
-502,241117,37,Support,Desktop Support Technician,Married,Approved
-503,926281,65,Human Resources,Sales Associate,Single,Not Approved
-504,6146812,88,Legal,Database Administrator III,Single,Not Approved
-505,2360286,80,Business Development,Programmer II,Married,Approved
-506,4985688,55,Services,Speech Pathologist,Single,Approved
-507,9725347,43,Legal,Programmer Analyst III,Married,Not Approved
-508,1176053,54,Sales,Web Designer IV,Married,Not Approved
-509,5638013,20,Research and Development,Nurse,Married,Approved
-510,6782876,23,Legal,Teacher,Married,Not Approved
-511,6394498,91,Accounting,VP Marketing,Single,Not Approved
-512,6390765,68,Accounting,Health Coach III,Married,Approved
-513,9884192,23,Engineering,Dental Hygienist,Married,Approved
-514,7114120,58,Marketing,Chief Design Engineer,Single,Approved
-515,7913021,44,Product Management,Health Coach I,Single,Approved
-516,5656369,36,Accounting,Quality Control Specialist,Single,Not Approved
-517,6683708,98,Sales,Dental Hygienist,Single,Not Approved
-518,3193317,30,Accounting,Librarian,Married,Not Approved
-519,1711194,82,Business Development,Administrative Officer,Married,Approved
-520,8200554,81,Legal,Desktop Support Technician,Single,Approved
-521,7406798,49,Services,Information Systems Manager,Single,Approved
-522,4863420,44,Support,Systems Administrator I,Single,Approved
-523,9115002,84,Services,Account Executive,Married,Not Approved
-524,9168891,94,Business Development,VP Quality Control,Single,Approved
-525,1320694,86,Business Development,Structural Engineer,Single,Approved
-526,5223251,20,Engineering,VP Quality Control,Single,Approved
-527,4643100,40,Legal,Assistant Professor,Married,Approved
-528,6598520,89,Legal,Marketing Assistant,Married,Not Approved
-529,5297444,40,Research and Development,Senior Sales Associate,Single,Approved
-530,8618817,97,Business Development,Civil Engineer,Married,Approved
-531,7802925,80,Sales,Civil Engineer,Married,Approved
-532,267413,30,Product Management,Nurse,Married,Not Approved
-533,6763130,25,Human Resources,VP Marketing,Married,Approved
-534,4503493,27,Legal,Senior Developer,Married,Approved
-535,2663349,71,Accounting,Marketing Assistant,Single,Approved
-536,7725944,33,Sales,Research Nurse,Single,Not Approved
-537,3013701,95,Human Resources,Software Test Engineer IV,Married,Approved
-538,9852675,92,Human Resources,Developer IV,Married,Not Approved
-539,1359071,24,Services,Paralegal,Married,Not Approved
-540,9563456,79,Human Resources,Editor,Single,Approved
-541,5831930,54,Human Resources,Senior Quality Engineer,Single,Not Approved
-542,4591153,54,Human Resources,Clinical Specialist,Married,Approved
-543,3335568,81,Legal,Systems Administrator III,Single,Not Approved
-544,9231406,73,Services,Chief Design Engineer,Single,Not Approved
-545,8461941,37,Human Resources,Statistician II,Married,Approved
-546,7804924,60,Support,Cost Accountant,Married,Approved
-547,795260,75,Engineering,VP Product Management,Single,Not Approved
-548,4161534,27,Services,Tax Accountant,Married,Not Approved
-549,8428553,60,Accounting,Associate Professor,Single,Approved
-550,7762544,64,Marketing,Operator,Single,Not Approved
-551,1782885,77,Engineering,Registered Nurse,Married,Approved
-552,3219700,77,Support,Geologist III,Single,Approved
-553,3929244,62,Marketing,Associate Professor,Married,Not Approved
-554,2098636,55,Training,Data Coordiator,Married,Approved
-555,6332885,72,Legal,Senior Quality Engineer,Married,Approved
-556,2337423,65,Support,Software Test Engineer I,Married,Approved
-557,5807760,63,Support,Web Developer I,Married,Approved
-558,1533785,90,Engineering,Nuclear Power Engineer,Married,Not Approved
-559,4523220,74,Sales,Biostatistician I,Single,Approved
-560,809760,40,Services,Engineer I,Married,Approved
-561,864357,21,Support,Recruiting Manager,Married,Not Approved
-562,7470624,42,Marketing,Automation Specialist IV,Married,Not Approved
-563,5644989,81,Marketing,Physical Therapy Assistant,Single,Approved
-564,1318562,73,Accounting,Internal Auditor,Single,Not Approved
-565,2053677,65,Marketing,Administrative Officer,Married,Approved
-566,9414284,98,Engineering,Accounting Assistant I,Married,Not Approved
-567,542220,24,Training,Assistant Professor,Single,Approved
-568,6565833,44,Business Development,Developer III,Married,Not Approved
-569,9815493,71,Engineering,Social Worker,Single,Approved
-570,6138397,94,Training,Marketing Assistant,Married,Approved
-571,1350152,22,Product Management,Occupational Therapist,Married,Approved
-572,9756584,58,Product Management,Speech Pathologist,Single,Not Approved
-573,460180,77,Engineering,Software Test Engineer IV,Single,Not Approved
-574,4712396,87,Accounting,Analog Circuit Design manager,Single,Approved
-575,4645573,35,Marketing,Recruiting Manager,Married,Not Approved
-576,3631808,82,Accounting,Health Coach III,Married,Approved
-577,5415323,56,Business Development,Physical Therapy Assistant,Married,Not Approved
-578,3803712,50,Human Resources,Human Resources Assistant I,Single,Approved
-579,9422911,68,Services,Nurse,Married,Approved
-580,1831965,51,Accounting,VP Marketing,Single,Not Approved
-581,847526,61,Engineering,Business Systems Development Analyst,Married,Not Approved
-582,2465410,63,Product Management,Nurse Practicioner,Married,Approved
-583,3592329,87,Marketing,Occupational Therapist,Married,Approved
-584,7196326,31,Accounting,Librarian,Married,Not Approved
-585,2178272,70,Services,Executive Secretary,Single,Not Approved
-586,1515077,79,Business Development,Health Coach III,Married,Not Approved
-587,9949666,35,Engineering,Geologist III,Married,Not Approved
-588,1703840,59,Sales,Design Engineer,Married,Not Approved
-589,2714967,59,Human Resources,Nurse Practicioner,Single,Not Approved
-590,4439927,30,Engineering,Community Outreach Specialist,Married,Approved
-591,306099,71,Marketing,Senior Sales Associate,Married,Approved
-592,9499137,74,Legal,Web Designer II,Married,Approved
-593,3176262,82,Accounting,Food Chemist,Single,Approved
-594,2641603,50,Product Management,Research Associate,Married,Not Approved
-595,6086373,51,Marketing,Environmental Tech,Single,Approved
-596,9711448,40,Product Management,Database Administrator III,Married,Not Approved
-597,4871435,58,Product Management,Occupational Therapist,Married,Approved
-598,6140861,24,Legal,Professor,Single,Not Approved
-599,4660536,51,Engineering,Senior Financial Analyst,Married,Approved
-600,4231430,73,Business Development,Social Worker,Single,Approved
-601,5959111,59,Marketing,Internal Auditor,Married,Not Approved
-602,6341291,70,Engineering,Design Engineer,Single,Not Approved
-603,2058534,25,Accounting,Assistant Professor,Married,Approved
-604,8182744,97,Services,Social Worker,Single,Not Approved
-605,4384460,81,Engineering,Social Worker,Single,Not Approved
-606,654907,52,Support,Computer Systems Analyst IV,Single,Approved
-607,5749563,91,Engineering,Senior Quality Engineer,Married,Not Approved
-608,4878362,45,Accounting,Product Engineer,Married,Approved
-609,9312497,37,Business Development,Social Worker,Single,Not Approved
-610,9104728,21,Sales,Research Assistant IV,Married,Approved
-611,3400505,45,Engineering,General Manager,Married,Approved
-612,9237894,75,Sales,Research Assistant IV,Single,Not Approved
-613,6843167,88,Accounting,Junior Executive,Married,Not Approved
-614,6308327,20,Legal,Structural Engineer,Married,Approved
-615,9959051,57,Support,Environmental Tech,Single,Not Approved
-616,1953231,36,Accounting,Statistician III,Single,Approved
-617,7836146,59,Human Resources,Marketing Assistant,Single,Approved
-618,9204042,70,Accounting,Engineer II,Married,Approved
-619,1456208,34,Human Resources,Account Representative III,Married,Not Approved
-620,4835305,96,Research and Development,Human Resources Manager,Married,Approved
-621,5066143,41,Engineering,Database Administrator II,Married,Approved
-622,355518,23,Research and Development,Research Associate,Single,Approved
-623,8356366,39,Legal,Chief Design Engineer,Single,Not Approved
-624,2515424,53,Research and Development,Senior Quality Engineer,Married,Not Approved
-625,9021975,64,Human Resources,Safety Technician III,Married,Not Approved
-626,8954927,90,Business Development,Administrative Assistant II,Single,Not Approved
-627,4964345,34,Training,Compensation Analyst,Single,Approved
-628,3910107,59,Sales,Automation Specialist III,Single,Not Approved
-629,200056,23,Business Development,Safety Technician I,Married,Approved
-630,8707156,57,Research and Development,Assistant Manager,Married,Approved
-631,4832991,87,Research and Development,GIS Technical Architect,Married,Not Approved
-632,3934842,100,Human Resources,VP Quality Control,Single,Approved
-633,1090204,97,Engineering,Developer II,Married,Not Approved
-634,7766472,87,Marketing,Assistant Manager,Single,Approved
-635,3761776,43,Product Management,Staff Accountant III,Married,Not Approved
-636,7689290,69,Research and Development,Clinical Specialist,Married,Approved
-637,1480214,35,Business Development,Help Desk Technician,Married,Approved
-638,2132682,48,Legal,Marketing Assistant,Single,Not Approved
-639,8695431,67,Product Management,Speech Pathologist,Single,Not Approved
-640,4072147,73,Business Development,Account Executive,Single,Approved
-641,3159583,39,Training,Account Coordinator,Single,Approved
-642,9012326,27,Accounting,Administrative Assistant IV,Married,Approved
-643,8915296,71,Research and Development,Compensation Analyst,Married,Approved
-644,8071875,44,Legal,Structural Engineer,Single,Not Approved
-645,3008643,75,Training,Chemical Engineer,Married,Not Approved
-646,989040,88,Legal,Engineer IV,Single,Approved
-647,6782062,57,Business Development,Database Administrator I,Married,Not Approved
-648,2350078,73,Training,Recruiting Manager,Married,Approved
-649,2531863,91,Business Development,VP Accounting,Married,Approved
-650,5903524,46,Support,Account Executive,Married,Not Approved
-651,4324803,65,Training,Account Executive,Married,Not Approved
-652,6580933,75,Marketing,Food Chemist,Single,Not Approved
-653,3817801,42,Services,Paralegal,Single,Not Approved
-654,7925342,75,Research and Development,Internal Auditor,Married,Approved
-655,4395710,56,Support,Internal Auditor,Single,Not Approved
-656,505805,91,Accounting,Administrative Assistant II,Single,Approved
-657,9609609,95,Business Development,Clinical Specialist,Single,Not Approved
-658,4505607,54,Services,Physical Therapy Assistant,Married,Not Approved
-659,9269756,65,Support,Chemical Engineer,Single,Approved
-660,8378911,39,Training,Quality Engineer,Single,Not Approved
-661,114908,34,Product Management,Human Resources Assistant II,Single,Not Approved
-662,43719,96,Sales,Professor,Married,Approved
-663,1728769,85,Training,Account Executive,Single,Approved
-664,2118868,93,Human Resources,Compensation Analyst,Single,Approved
-665,7484152,76,Marketing,Automation Specialist II,Married,Approved
-666,9240052,71,Engineering,Quality Control Specialist,Married,Approved
-667,5072750,68,Accounting,Senior Sales Associate,Married,Approved
-668,5731686,51,Engineering,Developer I,Single,Not Approved
-669,9666802,20,Legal,Sales Representative,Married,Approved
-670,429706,73,Accounting,VP Accounting,Married,Approved
-671,1574415,67,Business Development,Product Engineer,Married,Approved
-672,5241330,79,Marketing,Accounting Assistant I,Married,Not Approved
-673,6866036,76,Research and Development,Programmer IV,Married,Approved
-674,6042229,94,Marketing,Nurse,Married,Not Approved
-675,4343361,71,Support,General Manager,Married,Not Approved
-676,8899915,51,Human Resources,Sales Representative,Single,Approved
-677,7483444,45,Sales,Web Designer II,Married,Approved
-678,1141402,99,Legal,Paralegal,Married,Approved
-679,8673856,43,Engineering,Legal Assistant,Married,Approved
-680,1643805,51,Engineering,Help Desk Operator,Single,Not Approved
-681,831582,94,Accounting,Office Assistant I,Married,Not Approved
-682,3075958,63,Human Resources,Associate Professor,Married,Not Approved
-683,930119,46,Legal,Mechanical Systems Engineer,Married,Not Approved
-684,5068870,61,Human Resources,Executive Secretary,Married,Not Approved
-685,6357226,58,Legal,Editor,Married,Not Approved
-686,8098753,30,Research and Development,Marketing Manager,Single,Approved
-687,8874214,76,Legal,Assistant Media Planner,Single,Approved
-688,4393359,71,Research and Development,Computer Systems Analyst IV,Married,Not Approved
-689,2936899,27,Marketing,Sales Associate,Married,Approved
-690,1383523,93,Engineering,Mechanical Systems Engineer,Single,Not Approved
-691,813242,50,Research and Development,Staff Scientist,Single,Not Approved
-692,5809033,64,Human Resources,Nurse,Single,Not Approved
-693,8172349,39,Human Resources,Nuclear Power Engineer,Single,Not Approved
-694,5510250,52,Marketing,Paralegal,Single,Approved
-695,4162613,62,Training,Sales Representative,Single,Not Approved
-696,6125511,64,Accounting,Food Chemist,Married,Approved
-697,3293444,89,Human Resources,Quality Control Specialist,Married,Approved
-698,1657778,74,Human Resources,Analog Circuit Design manager,Single,Approved
-699,4206662,45,Business Development,VP Accounting,Married,Not Approved
-700,4354153,31,Engineering,Occupational Therapist,Single,Not Approved
-701,2278714,55,Accounting,Human Resources Manager,Married,Approved
-702,8991184,72,Engineering,Administrative Assistant III,Single,Approved
-703,698204,73,Research and Development,Senior Financial Analyst,Married,Not Approved
-704,854151,42,Marketing,Financial Analyst,Single,Not Approved
-705,3638459,93,Services,Electrical Engineer,Married,Approved
-706,9078496,99,Business Development,Recruiter,Married,Approved
-707,4991572,43,Engineering,Media Manager III,Single,Not Approved
-708,2744946,36,Human Resources,Help Desk Technician,Married,Approved
-709,6875233,35,Human Resources,Assistant Manager,Married,Approved
-710,7234034,95,Research and Development,Nurse,Married,Not Approved
-711,3250459,72,Business Development,Graphic Designer,Married,Approved
-712,4226284,23,Sales,Health Coach I,Married,Approved
-713,2785952,54,Product Management,Web Developer IV,Single,Approved
-714,3484306,32,Sales,Registered Nurse,Married,Not Approved
-715,9174846,23,Product Management,Environmental Tech,Single,Not Approved
-716,396987,66,Marketing,Environmental Specialist,Single,Approved
-717,4991069,79,Accounting,Community Outreach Specialist,Single,Not Approved
-718,6001731,27,Legal,Physical Therapy Assistant,Married,Not Approved
-719,3426862,76,Services,Software Test Engineer I,Single,Not Approved
-720,960498,89,Accounting,Sales Associate,Married,Approved
-721,6683095,62,Human Resources,Business Systems Development Analyst,Single,Approved
-722,550006,39,Services,Web Developer II,Single,Not Approved
-723,3006948,52,Services,Dental Hygienist,Single,Not Approved
-724,8188270,47,Product Management,VP Quality Control,Married,Not Approved
-725,8599249,82,Training,Nurse,Married,Not Approved
-726,7122638,71,Research and Development,Desktop Support Technician,Married,Not Approved
-727,6475056,63,Human Resources,Chief Design Engineer,Single,Approved
-728,9690940,22,Sales,Professor,Single,Approved
-729,1278598,62,Support,Nuclear Power Engineer,Married,Not Approved
-730,5354212,37,Product Management,Programmer III,Married,Approved
-731,3173374,75,Services,Food Chemist,Married,Not Approved
-732,1870736,70,Product Management,Administrative Officer,Married,Not Approved
-733,9566175,59,Research and Development,Food Chemist,Married,Approved
-734,8149451,43,Business Development,Recruiter,Married,Approved
-735,2026538,88,Sales,Account Representative IV,Single,Not Approved
-736,6553120,61,Accounting,Software Engineer IV,Single,Not Approved
-737,2820571,89,Sales,Recruiting Manager,Married,Approved
-738,3807936,76,Accounting,Editor,Married,Approved
-739,7062784,24,Support,Librarian,Single,Not Approved
-740,8829853,63,Marketing,Budget/Accounting Analyst II,Married,Approved
-741,4043550,94,Marketing,VP Quality Control,Single,Not Approved
-742,2457261,75,Training,Technical Writer,Single,Approved
-743,4603548,91,Legal,Quality Engineer,Single,Not Approved
-744,8627510,61,Business Development,Actuary,Married,Not Approved
-745,53303,97,Marketing,Systems Administrator IV,Single,Approved
-746,8980251,60,Business Development,Financial Analyst,Married,Not Approved
-747,2460219,83,Legal,Financial Analyst,Single,Not Approved
-748,9280946,84,Research and Development,Programmer III,Single,Not Approved
-749,3280564,32,Training,Assistant Professor,Single,Approved
-750,6754991,84,Legal,Account Representative II,Single,Approved
-751,3078763,30,Support,GIS Technical Architect,Single,Approved
-752,3571760,96,Research and Development,Graphic Designer,Married,Not Approved
-753,8449552,92,Business Development,Civil Engineer,Married,Approved
-754,1160859,24,Accounting,VP Accounting,Single,Approved
-755,2584594,54,Accounting,Business Systems Development Analyst,Married,Approved
-756,3793674,42,Human Resources,Health Coach IV,Single,Not Approved
-757,4967330,68,Accounting,Senior Cost Accountant,Single,Not Approved
-758,2462254,34,Business Development,Tax Accountant,Married,Not Approved
-759,4352261,24,Accounting,Financial Advisor,Married,Not Approved
-760,1135573,62,Sales,Assistant Professor,Single,Not Approved
-761,7477849,84,Sales,Software Engineer III,Single,Not Approved
-762,5249956,96,Services,Structural Analysis Engineer,Single,Not Approved
-763,7665395,56,Research and Development,Food Chemist,Married,Approved
-764,1988082,71,Training,Chief Design Engineer,Married,Not Approved
-765,5842494,56,Business Development,Information Systems Manager,Married,Not Approved
-766,3416908,66,Services,Structural Engineer,Single,Not Approved
-767,4502510,44,Sales,Geological Engineer,Single,Not Approved
-768,2750302,27,Product Management,Web Designer I,Single,Not Approved
-769,5770173,29,Engineering,Associate Professor,Married,Approved
-770,3140438,42,Engineering,Analyst Programmer,Married,Approved
-771,1731404,91,Sales,Dental Hygienist,Single,Approved
-772,7011540,58,Services,Technical Writer,Single,Not Approved
-773,3800471,21,Services,Payment Adjustment Coordinator,Single,Approved
-774,9773530,25,Engineering,Structural Analysis Engineer,Single,Not Approved
-775,6949571,37,Business Development,Senior Editor,Single,Approved
-776,9480793,29,Product Management,Product Engineer,Married,Approved
-777,7563696,35,Business Development,Geological Engineer,Single,Not Approved
-778,7557784,65,Services,Environmental Specialist,Married,Approved
-779,5868051,21,Legal,Payment Adjustment Coordinator,Married,Not Approved
-780,8121853,70,Engineering,Staff Scientist,Married,Approved
-781,4316969,52,Accounting,Dental Hygienist,Single,Approved
-782,5806558,59,Human Resources,Operator,Married,Not Approved
-783,8016788,22,Services,Sales Associate,Single,Approved
-784,7179317,42,Research and Development,Financial Advisor,Single,Approved
-785,1432650,98,Product Management,Senior Quality Engineer,Married,Approved
-786,3856658,80,Sales,Research Nurse,Married,Approved
-787,8055732,75,Engineering,Nurse Practicioner,Married,Not Approved
-788,1283910,71,Engineering,Staff Accountant IV,Single,Approved
-789,9874677,32,Human Resources,Senior Financial Analyst,Single,Approved
-790,3635734,31,Training,Media Manager I,Single,Approved
-791,8664830,49,Accounting,Chemical Engineer,Married,Not Approved
-792,1799125,77,Legal,Programmer Analyst I,Single,Approved
-793,3065544,78,Support,Software Engineer II,Single,Not Approved
-794,1889136,78,Business Development,Financial Advisor,Single,Approved
-795,4582594,56,Research and Development,Director of Sales,Single,Approved
-796,693843,100,Sales,Design Engineer,Single,Not Approved
-797,1109799,61,Sales,Quality Control Specialist,Single,Approved
-798,3735811,29,Training,Accountant II,Married,Not Approved
-799,4823596,45,Research and Development,Business Systems Development Analyst,Married,Not Approved
-800,1015431,28,Training,Systems Administrator II,Single,Approved
-801,8306859,25,Services,Software Engineer IV,Married,Not Approved
-802,7942221,53,Marketing,Mechanical Systems Engineer,Single,Not Approved
-803,3757433,40,Training,Assistant Professor,Married,Not Approved
-804,6239047,37,Human Resources,Chemical Engineer,Married,Not Approved
-805,3398572,26,Accounting,Account Coordinator,Single,Approved
-806,3368018,98,Human Resources,GIS Technical Architect,Single,Not Approved
-807,455435,89,Marketing,Nurse Practicioner,Single,Not Approved
-808,4932742,20,Accounting,Statistician IV,Married,Approved
-809,5772034,85,Legal,Assistant Media Planner,Married,Approved
-810,3345472,72,Sales,Internal Auditor,Single,Not Approved
-811,5830788,99,Accounting,Project Manager,Single,Not Approved
-812,8837136,29,Accounting,Software Engineer II,Married,Approved
-813,3141707,74,Services,Administrative Assistant II,Single,Approved
-814,7183044,58,Training,Sales Associate,Married,Approved
-815,2602708,79,Human Resources,Web Developer III,Married,Approved
-816,6307409,61,Product Management,Account Executive,Single,Approved
-817,125929,84,Product Management,Analyst Programmer,Single,Approved
-818,3536572,76,Legal,Human Resources Assistant II,Single,Not Approved
-819,8585461,73,Accounting,Dental Hygienist,Single,Approved
-820,2614846,81,Marketing,Environmental Tech,Married,Not Approved
-821,9055599,76,Accounting,Professor,Married,Approved
-822,4908357,90,Engineering,Tax Accountant,Married,Not Approved
-823,2472166,98,Training,Structural Engineer,Married,Approved
-824,7138182,32,Human Resources,Internal Auditor,Married,Approved
-825,9318779,51,Training,Food Chemist,Married,Not Approved
-826,4874963,80,Accounting,Executive Secretary,Married,Approved
-827,9981151,82,Human Resources,Web Developer IV,Married,Approved
-828,8736590,51,Human Resources,Web Developer IV,Married,Not Approved
-829,8652146,27,Accounting,Developer II,Single,Not Approved
-830,5302153,97,Engineering,Desktop Support Technician,Married,Not Approved
-831,76252,43,Training,Food Chemist,Single,Not Approved
-832,7059080,81,Sales,Research Nurse,Single,Approved
-833,7334334,62,Product Management,VP Sales,Single,Not Approved
-834,9531925,76,Services,Librarian,Married,Not Approved
-835,4647218,21,Product Management,Account Representative I,Married,Approved
-836,1315360,36,Support,Design Engineer,Single,Approved
-837,6306410,67,Services,Professor,Single,Approved
-838,3224495,39,Sales,Internal Auditor,Single,Approved
-839,7927409,32,Services,Electrical Engineer,Married,Approved
-840,110739,72,Accounting,Senior Quality Engineer,Single,Not Approved
-841,8528040,69,Marketing,Help Desk Operator,Married,Approved
-842,2326096,69,Product Management,Financial Analyst,Single,Approved
-843,175438,68,Legal,Nurse Practicioner,Married,Not Approved
-844,2212435,75,Services,Health Coach II,Single,Approved
-845,6451725,45,Business Development,Accounting Assistant III,Married,Approved
-846,7860172,27,Marketing,Product Engineer,Married,Not Approved
-847,2426850,77,Accounting,Payment Adjustment Coordinator,Married,Approved
-848,2438206,60,Sales,Compensation Analyst,Married,Not Approved
-849,510076,74,Accounting,Research Associate,Single,Not Approved
-850,6441157,24,Services,Junior Executive,Married,Not Approved
-851,4928320,99,Business Development,Human Resources Assistant III,Married,Not Approved
-852,156139,37,Human Resources,VP Sales,Single,Not Approved
-853,39630,28,Product Management,Financial Analyst,Married,Not Approved
-854,2042962,85,Training,Community Outreach Specialist,Married,Not Approved
-855,5122401,55,Marketing,Speech Pathologist,Single,Approved
-856,4592589,93,Legal,Chemical Engineer,Married,Not Approved
-857,2545868,32,Sales,Product Engineer,Married,Approved
-858,8469742,95,Sales,VP Accounting,Single,Not Approved
-859,82259,87,Business Development,Occupational Therapist,Married,Approved
-860,8902950,63,Human Resources,Senior Financial Analyst,Single,Approved
-861,7511934,52,Engineering,Quality Engineer,Married,Approved
-862,1458738,73,Services,Web Developer III,Single,Not Approved
-863,4377614,33,Human Resources,Mechanical Systems Engineer,Single,Approved
-864,4585151,28,Human Resources,Assistant Media Planner,Single,Not Approved
-865,6531288,27,Support,Civil Engineer,Married,Approved
-866,162387,56,Support,Assistant Media Planner,Married,Approved
-867,6576632,31,Training,Geological Engineer,Single,Not Approved
-868,4247451,47,Product Management,Marketing Assistant,Single,Approved
-869,965890,84,Research and Development,Senior Cost Accountant,Married,Approved
-870,5217590,55,Research and Development,Technical Writer,Single,Approved
-871,1370233,22,Services,Sales Associate,Single,Not Approved
-872,4115260,26,Support,Paralegal,Married,Approved
-873,1677059,72,Support,Financial Analyst,Single,Approved
-874,9504880,100,Legal,Staff Accountant I,Married,Approved
-875,316935,82,Services,Paralegal,Single,Not Approved
-876,773252,55,Sales,Developer II,Single,Not Approved
-877,2922738,42,Research and Development,Technical Writer,Single,Not Approved
-878,4839877,30,Support,Junior Executive,Single,Not Approved
-879,6538492,55,Support,Chemical Engineer,Married,Not Approved
-880,8674611,64,Support,Account Executive,Married,Approved
-881,1166813,82,Support,Actuary,Single,Approved
-882,7771622,25,Sales,Software Consultant,Married,Not Approved
-883,8828974,58,Training,Teacher,Married,Not Approved
-884,9962989,90,Research and Development,Media Manager IV,Single,Not Approved
-885,9176504,56,Sales,Nurse,Married,Approved
-886,4404131,33,Human Resources,Compensation Analyst,Married,Approved
-887,2736108,49,Marketing,Financial Analyst,Single,Not Approved
-888,9317745,59,Accounting,Account Representative III,Married,Not Approved
-889,2781660,27,Support,Software Engineer II,Married,Not Approved
-890,2574257,89,Business Development,Senior Editor,Single,Not Approved
-891,3157935,87,Services,Structural Engineer,Single,Not Approved
-892,4813742,51,Services,Administrative Assistant III,Single,Not Approved
-893,905038,50,Marketing,Web Developer IV,Married,Not Approved
-894,5034628,36,Marketing,Web Developer II,Married,Not Approved
-895,4878747,42,Legal,Accountant II,Single,Not Approved
-896,9952861,68,Legal,Financial Advisor,Single,Not Approved
-897,9674202,100,Training,Associate Professor,Single,Approved
-898,2844939,79,Services,Quality Engineer,Married,Not Approved
-899,6316153,26,Legal,Software Test Engineer I,Single,Not Approved
-900,5274749,71,Accounting,Marketing Assistant,Single,Approved
-901,8214162,79,Training,Senior Editor,Single,Not Approved
-902,5020699,34,Accounting,Payment Adjustment Coordinator,Single,Not Approved
-903,8118738,24,Engineering,Research Associate,Single,Approved
-904,4996851,39,Legal,Nurse,Single,Not Approved
-905,50076,81,Product Management,Human Resources Assistant I,Single,Approved
-906,1518047,94,Services,Product Engineer,Single,Approved
-907,9950695,34,Accounting,VP Product Management,Married,Not Approved
-908,2416822,89,Marketing,VP Marketing,Married,Approved
-909,8993982,54,Sales,Dental Hygienist,Single,Approved
-910,5939373,29,Training,Legal Assistant,Single,Not Approved
-911,2912397,99,Marketing,Graphic Designer,Married,Approved
-912,9647438,80,Legal,Help Desk Technician,Married,Approved
-913,9836534,56,Product Management,Environmental Tech,Single,Not Approved
-914,5228198,93,Research and Development,Financial Advisor,Married,Not Approved
-915,1440533,57,Research and Development,Nurse,Single,Not Approved
-916,2743071,52,Support,Health Coach II,Single,Not Approved
-917,9144432,98,Human Resources,Senior Developer,Married,Approved
-918,9690969,61,Engineering,Research Assistant I,Married,Not Approved
-919,2597658,99,Training,Pharmacist,Married,Approved
-920,9006498,46,Training,Desktop Support Technician,Single,Approved
-921,3578253,68,Product Management,Graphic Designer,Single,Approved
-922,5030286,80,Product Management,Engineer I,Single,Approved
-923,5122690,51,Training,Senior Cost Accountant,Married,Approved
-924,8159071,72,Sales,Senior Editor,Single,Not Approved
-925,4472245,31,Human Resources,General Manager,Married,Approved
-926,4464750,28,Services,Marketing Manager,Single,Approved
-927,4704914,77,Sales,Web Designer IV,Single,Not Approved
-928,1338421,92,Support,Analyst Programmer,Single,Not Approved
-929,3646480,51,Services,VP Product Management,Single,Not Approved
-930,1998063,24,Training,Assistant Media Planner,Married,Not Approved
-931,2826932,50,Marketing,Geological Engineer,Married,Approved
-932,7793335,85,Engineering,Physical Therapy Assistant,Single,Approved
-933,4649562,97,Sales,Staff Scientist,Married,Approved
-934,3342260,90,Accounting,Editor,Married,Not Approved
-935,8473418,73,Research and Development,Marketing Manager,Married,Approved
-936,2990936,90,Product Management,Chief Design Engineer,Single,Not Approved
-937,365632,56,Business Development,Computer Systems Analyst II,Married,Not Approved
-938,8775223,84,Human Resources,Senior Developer,Single,Not Approved
-939,8948806,46,Engineering,Professor,Married,Approved
-940,6730749,34,Marketing,Editor,Single,Not Approved
-941,5538790,73,Services,Geologist I,Married,Approved
-942,562931,41,Research and Development,Help Desk Technician,Married,Approved
-943,1358598,30,Engineering,Actuary,Single,Not Approved
-944,7158108,44,Support,Computer Systems Analyst IV,Single,Approved
-945,4921775,95,Legal,Pharmacist,Single,Not Approved
-946,3225416,41,Research and Development,Nurse Practicioner,Married,Not Approved
-947,998684,49,Accounting,Quality Control Specialist,Single,Not Approved
-948,6962884,20,Engineering,Physical Therapy Assistant,Single,Approved
-949,8784192,38,Legal,Help Desk Operator,Married,Not Approved
-950,260716,21,Sales,Senior Cost Accountant,Married,Not Approved
-951,6642838,100,Support,Media Manager III,Single,Not Approved
-952,8267895,50,Research and Development,GIS Technical Architect,Single,Approved
-953,7505703,21,Marketing,Actuary,Married,Approved
-954,4986669,57,Legal,Chemical Engineer,Single,Not Approved
-955,6109024,30,Business Development,Health Coach I,Single,Approved
-956,509960,70,Human Resources,Staff Scientist,Married,Approved
-957,2864132,63,Human Resources,Software Engineer IV,Married,Approved
-958,7102569,88,Legal,GIS Technical Architect,Single,Not Approved
-959,295546,52,Sales,Teacher,Married,Approved
-960,6024887,53,Product Management,Junior Executive,Married,Not Approved
-961,4145235,95,Accounting,Tax Accountant,Married,Approved
-962,5097736,34,Legal,Geologist IV,Single,Approved
-963,7709888,22,Product Management,Data Coordiator,Married,Approved
-964,4417714,87,Research and Development,Human Resources Manager,Single,Not Approved
-965,6065768,65,Business Development,Environmental Specialist,Married,Not Approved
-966,459767,57,Business Development,Media Manager III,Single,Not Approved
-967,5718296,93,Marketing,Chemical Engineer,Married,Not Approved
-968,661687,25,Human Resources,Business Systems Development Analyst,Single,Approved
-969,9456490,21,Accounting,Clinical Specialist,Single,Not Approved
-970,9132016,43,Human Resources,General Manager,Single,Not Approved
-971,2817151,72,Research and Development,Computer Systems Analyst I,Married,Approved
-972,1272248,57,Marketing,Pharmacist,Married,Approved
-973,8436864,77,Research and Development,Civil Engineer,Single,Approved
-974,8628383,22,Business Development,Occupational Therapist,Married,Not Approved
-975,2191558,32,Research and Development,Recruiter,Married,Approved
-976,6162478,69,Sales,VP Sales,Married,Approved
-977,6428018,65,Sales,Nurse,Married,Approved
-978,7159967,57,Sales,Recruiting Manager,Married,Not Approved
-979,2339979,74,Legal,Assistant Manager,Married,Approved
-980,5009977,64,Services,Account Coordinator,Single,Approved
-981,7912583,85,Training,Analyst Programmer,Married,Approved
-982,9396725,37,Services,Sales Associate,Married,Not Approved
-983,8143128,100,Sales,Teacher,Married,Approved
-984,8143013,65,Accounting,Staff Scientist,Married,Approved
-985,628436,55,Support,Director of Sales,Married,Not Approved
-986,8306231,75,Business Development,Electrical Engineer,Married,Approved
-987,4952446,81,Support,VP Product Management,Married,Approved
-988,9069807,27,Business Development,VP Accounting,Single,Approved
-989,9815430,83,Product Management,Environmental Tech,Married,Not Approved
-990,2081431,80,Product Management,Desktop Support Technician,Married,Approved
-991,3430530,78,Product Management,Environmental Specialist,Single,Not Approved
-992,5934492,71,Services,Research Assistant IV,Married,Not Approved
-993,8536469,41,Research and Development,Desktop Support Technician,Married,Not Approved
-994,8678728,78,Marketing,Professor,Married,Approved
-995,7920469,93,Training,Librarian,Single,Not Approved
-996,7674214,35,Accounting,Administrative Assistant II,Single,Approved
-997,524112,46,Legal,Analog Circuit Design manager,Single,Approved
-998,237708,57,Engineering,Product Engineer,Married,Not Approved
-999,9853168,48,Accounting,Help Desk Technician,Married,Approved
-1000,4738486,47,Product Management,Electrical Engineer,Single,Approved
+id;Income;Age;Education;Occupation;Marital_Status;Approval_Status
+1;228394;70;Sales;Junior Executive;Single;Not Approved
+2;4813224;21;Research and Development;VP Product Management;Single;Approved
+3;3648641;58;Marketing;Research Nurse;Married;Approved
+4;8386990;69;Product Management;Executive Secretary;Married;Approved
+5;5805848;62;Marketing;Sales Representative;Married;Approved
+6;7859007;46;Human Resources;Structural Analysis Engineer;Single;Approved
+7;3247059;67;Support;Geological Engineer;Married;Approved
+8;3673211;73;Engineering;Budget/Accounting Analyst I;Married;Approved
+9;8226820;82;Sales;Internal Auditor;Married;Approved
+10;5760791;25;Marketing;Programmer Analyst II;Single;Approved
+11;7470395;22;Accounting;Help Desk Operator;Single;Approved
+12;4069065;47;Legal;Nurse;Single;Approved
+13;8109142;77;Marketing;Research Associate;Single;Not Approved
+14;220305;32;Accounting;Teacher;Single;Approved
+15;3471432;92;Sales;Safety Technician II;Single;Not Approved
+16;6942871;20;Legal;Database Administrator III;Single;Not Approved
+17;3118724;28;Sales;Civil Engineer;Single;Approved
+18;2266953;28;Product Management;Staff Scientist;Single;Not Approved
+19;2516227;76;Business Development;Professor;Married;Approved
+20;2747097;71;Sales;Help Desk Operator;Single;Not Approved
+21;6775812;53;Accounting;Software Test Engineer III;Single;Not Approved
+22;6914240;29;Support;Programmer Analyst I;Married;Approved
+23;5305451;49;Accounting;Assistant Professor;Married;Not Approved
+24;7702950;30;Human Resources;Project Manager;Married;Not Approved
+25;4590665;90;Support;Quality Control Specialist;Single;Not Approved
+26;3333702;80;Support;Developer II;Single;Approved
+27;622832;23;Sales;Professor;Single;Approved
+28;4852694;56;Engineering;Help Desk Technician;Single;Approved
+29;1893333;100;Human Resources;VP Sales;Married;Approved
+30;3745823;88;Product Management;Quality Engineer;Single;Approved
+31;111903;35;Accounting;Nuclear Power Engineer;Single;Approved
+32;1294406;68;Research and Development;VP Product Management;Married;Approved
+33;1606541;98;Accounting;Senior Sales Associate;Single;Not Approved
+34;9640911;67;Training;Account Executive;Single;Approved
+35;5072031;68;Legal;Technical Writer;Married;Approved
+36;4557360;74;Business Development;Electrical Engineer;Married;Not Approved
+37;8076683;49;Human Resources;Nurse;Married;Approved
+38;1732097;49;Legal;Assistant Professor;Single;Not Approved
+39;7616313;29;Engineering;Software Test Engineer II;Single;Not Approved
+40;1728203;44;Product Management;Recruiter;Married;Approved
+41;7843461;63;Sales;Safety Technician I;Married;Approved
+42;8662491;42;Accounting;Environmental Specialist;Married;Not Approved
+43;7805451;73;Accounting;Associate Professor;Married;Not Approved
+44;4121576;41;Training;Help Desk Technician;Single;Approved
+45;905584;56;Human Resources;Marketing Assistant;Single;Not Approved
+46;6675147;64;Research and Development;Analyst Programmer;Married;Not Approved
+47;962425;60;Accounting;Software Test Engineer III;Single;Approved
+48;9196220;36;Support;Paralegal;Single;Approved
+49;3642299;48;Services;Environmental Specialist;Single;Approved
+50;1017590;94;Research and Development;Product Engineer;Married;Not Approved
+51;250109;43;Support;Junior Executive;Single;Not Approved
+52;5646154;85;Marketing;Clinical Specialist;Married;Approved
+53;2134215;37;Product Management;Analog Circuit Design manager;Married;Not Approved
+54;7293417;52;Marketing;Paralegal;Single;Approved
+55;8080978;75;Training;Food Chemist;Single;Approved
+56;2544823;76;Training;VP Sales;Single;Approved
+57;2019265;56;Marketing;Teacher;Single;Approved
+58;3445854;95;Accounting;Biostatistician II;Single;Approved
+59;9464182;36;Accounting;Senior Developer;Married;Approved
+60;5220710;63;Legal;Environmental Specialist;Single;Approved
+61;5355471;86;Support;Registered Nurse;Married;Approved
+62;5253373;23;Engineering;Nurse;Married;Not Approved
+63;5652398;88;Support;Research Assistant IV;Single;Approved
+64;1971252;92;Support;Registered Nurse;Married;Approved
+65;6313155;62;Business Development;Accountant IV;Married;Not Approved
+66;3683837;33;Support;Developer III;Married;Not Approved
+67;1394034;22;Legal;Nurse;Single;Approved
+68;4188252;66;Support;Chief Design Engineer;Married;Approved
+69;5405045;53;Legal;Mechanical Systems Engineer;Single;Approved
+70;7561939;51;Research and Development;Sales Associate;Married;Approved
+71;53435;64;Training;Senior Cost Accountant;Single;Not Approved
+72;8129211;41;Human Resources;Senior Editor;Single;Approved
+73;4684070;65;Business Development;Nurse Practicioner;Single;Approved
+74;2380060;26;Legal;Software Test Engineer III;Single;Not Approved
+75;5156401;55;Product Management;VP Marketing;Married;Approved
+76;272429;93;Services;Senior Cost Accountant;Single;Approved
+77;8030995;34;Engineering;GIS Technical Architect;Married;Not Approved
+78;388967;78;Training;General Manager;Married;Approved
+79;1094612;24;Services;Cost Accountant;Single;Approved
+80;2187333;47;Accounting;Social Worker;Married;Approved
+81;9559542;94;Accounting;Business Systems Development Analyst;Married;Not Approved
+82;1758979;35;Product Management;Administrative Officer;Single;Approved
+83;5069853;26;Research and Development;Professor;Married;Not Approved
+84;9817958;42;Research and Development;Senior Developer;Single;Approved
+85;1795872;76;Engineering;Desktop Support Technician;Single;Approved
+86;2185278;28;Marketing;Technical Writer;Single;Approved
+87;6885088;20;Marketing;Database Administrator II;Married;Approved
+88;3230781;42;Support;Desktop Support Technician;Married;Not Approved
+89;6375023;82;Legal;Graphic Designer;Single;Approved
+90;4700741;93;Product Management;Social Worker;Single;Not Approved
+91;7065246;20;Product Management;Editor;Single;Not Approved
+92;9270823;77;Marketing;Physical Therapy Assistant;Single;Approved
+93;7648592;65;Engineering;Automation Specialist II;Married;Approved
+94;5771408;27;Business Development;Health Coach III;Single;Approved
+95;7795822;66;Research and Development;Occupational Therapist;Single;Approved
+96;9477690;94;Accounting;Technical Writer;Married;Not Approved
+97;3946752;34;Services;Operator;Single;Not Approved
+98;2782794;47;Training;Administrative Officer;Single;Not Approved
+99;5150037;35;Sales;Administrative Assistant II;Single;Approved
+100;5720574;41;Services;Paralegal;Single;Not Approved
+101;5989888;94;Research and Development;VP Accounting;Married;Not Approved
+102;3721366;93;Engineering;Graphic Designer;Married;Not Approved
+103;4831049;87;Research and Development;Electrical Engineer;Single;Approved
+104;1601080;25;Services;Recruiting Manager;Single;Not Approved
+105;6519727;39;Legal;Physical Therapy Assistant;Married;Not Approved
+106;2745694;56;Product Management;Legal Assistant;Single;Approved
+107;2509654;20;Marketing;Senior Editor;Married;Approved
+108;6067926;98;Marketing;Senior Cost Accountant;Single;Not Approved
+109;4558333;39;Research and Development;Electrical Engineer;Married;Approved
+110;9331178;28;Marketing;Sales Associate;Married;Approved
+111;4906065;57;Engineering;Environmental Specialist;Married;Approved
+112;5398679;98;Marketing;Paralegal;Single;Not Approved
+113;4417794;60;Support;Programmer III;Married;Not Approved
+114;4669442;56;Sales;Physical Therapy Assistant;Married;Not Approved
+115;8739552;34;Support;Database Administrator II;Married;Approved
+116;6977487;97;Human Resources;Actuary;Single;Approved
+117;7644484;27;Services;VP Accounting;Married;Approved
+118;8930312;55;Business Development;Civil Engineer;Single;Not Approved
+119;9426747;22;Services;Associate Professor;Single;Approved
+120;7275578;71;Sales;Marketing Assistant;Married;Approved
+121;2787336;51;Accounting;Nuclear Power Engineer;Single;Approved
+122;1621906;100;Marketing;GIS Technical Architect;Single;Approved
+123;1737144;22;Legal;Financial Analyst;Single;Not Approved
+124;4123125;53;Sales;Project Manager;Single;Not Approved
+125;8377883;89;Engineering;Staff Accountant II;Married;Approved
+126;1272898;81;Services;Web Designer II;Single;Approved
+127;6246738;63;Sales;Internal Auditor;Married;Not Approved
+128;2983632;27;Services;Office Assistant I;Single;Approved
+129;6583561;30;Services;Web Developer IV;Single;Not Approved
+130;6858771;21;Engineering;Product Engineer;Single;Not Approved
+131;1523600;81;Marketing;Technical Writer;Married;Approved
+132;1771975;87;Services;Sales Associate;Single;Approved
+133;7025216;96;Sales;Analog Circuit Design manager;Married;Not Approved
+134;2233978;59;Engineering;Nuclear Power Engineer;Married;Approved
+135;7162747;25;Sales;Account Coordinator;Single;Approved
+136;5153183;25;Marketing;Social Worker;Married;Approved
+137;7199872;81;Services;Health Coach III;Single;Approved
+138;5778108;93;Product Management;Automation Specialist I;Married;Approved
+139;294873;72;Accounting;Marketing Manager;Married;Not Approved
+140;4168013;50;Research and Development;Health Coach I;Single;Approved
+141;7182906;33;Marketing;Nurse Practicioner;Single;Not Approved
+142;7185909;28;Engineering;Internal Auditor;Married;Approved
+143;9134192;34;Product Management;Database Administrator I;Married;Not Approved
+144;5822222;62;Engineering;VP Product Management;Single;Approved
+145;1701278;35;Services;Biostatistician II;Single;Not Approved
+146;8473452;44;Business Development;Payment Adjustment Coordinator;Married;Not Approved
+147;8952659;58;Support;Mechanical Systems Engineer;Married;Approved
+148;1366816;27;Engineering;Business Systems Development Analyst;Married;Approved
+149;3784493;61;Services;Senior Cost Accountant;Married;Approved
+150;4827475;86;Human Resources;Programmer III;Married;Approved
+151;7826882;55;Product Management;Account Executive;Single;Not Approved
+152;8001304;57;Training;Chief Design Engineer;Single;Approved
+153;9470099;34;Business Development;Assistant Media Planner;Single;Approved
+154;5939989;62;Human Resources;Senior Quality Engineer;Single;Approved
+155;4617559;31;Marketing;Health Coach III;Single;Not Approved
+156;273172;39;Services;Senior Developer;Married;Approved
+157;9650736;92;Support;Engineer II;Single;Approved
+158;1583382;43;Engineering;Compensation Analyst;Married;Not Approved
+159;224619;20;Accounting;Environmental Specialist;Married;Approved
+160;6727208;84;Product Management;Web Developer I;Single;Not Approved
+161;591168;45;Business Development;Nuclear Power Engineer;Married;Not Approved
+162;9977686;86;Product Management;Geologist III;Single;Not Approved
+163;5778136;34;Research and Development;Internal Auditor;Married;Not Approved
+164;4793743;100;Sales;Marketing Assistant;Single;Approved
+165;8701171;45;Training;Nuclear Power Engineer;Single;Approved
+166;719415;80;Marketing;Physical Therapy Assistant;Married;Not Approved
+167;4577481;83;Business Development;Assistant Media Planner;Married;Approved
+168;4319985;53;Marketing;Environmental Tech;Married;Not Approved
+169;6316379;39;Services;Executive Secretary;Single;Approved
+170;1292258;79;Product Management;VP Sales;Married;Not Approved
+171;6636174;44;Research and Development;VP Product Management;Married;Approved
+172;5431226;47;Services;Web Designer IV;Single;Not Approved
+173;7668710;51;Product Management;Human Resources Assistant III;Single;Approved
+174;2089189;65;Sales;Senior Editor;Married;Not Approved
+175;7326042;96;Engineering;Research Nurse;Single;Approved
+176;8623791;29;Training;Operator;Married;Not Approved
+177;9740461;36;Human Resources;Database Administrator II;Single;Approved
+178;4443798;95;Engineering;Payment Adjustment Coordinator;Single;Approved
+179;1779891;70;Training;Human Resources Manager;Married;Not Approved
+180;9564076;79;Engineering;Financial Advisor;Married;Approved
+181;1470158;55;Product Management;Staff Scientist;Single;Approved
+182;9709640;45;Sales;Assistant Professor;Married;Not Approved
+183;3035318;64;Business Development;Analog Circuit Design manager;Married;Not Approved
+184;3454834;78;Human Resources;Civil Engineer;Married;Approved
+185;7721495;97;Legal;Nurse;Single;Approved
+186;2123593;51;Services;Database Administrator I;Married;Not Approved
+187;4902066;53;Legal;Senior Developer;Married;Not Approved
+188;6573796;67;Marketing;Executive Secretary;Single;Approved
+189;7232664;31;Services;Nurse;Married;Approved
+190;8081585;64;Engineering;Tax Accountant;Single;Approved
+191;3266026;81;Sales;Software Test Engineer II;Married;Not Approved
+192;6968643;40;Accounting;Assistant Manager;Married;Approved
+193;5185017;97;Legal;Software Consultant;Married;Not Approved
+194;3420792;50;Training;Assistant Manager;Single;Approved
+195;8461919;85;Product Management;Web Designer IV;Single;Approved
+196;5650278;78;Legal;Business Systems Development Analyst;Married;Not Approved
+197;307881;50;Services;Staff Accountant IV;Single;Approved
+198;784130;61;Accounting;Accounting Assistant III;Single;Approved
+199;8271384;50;Sales;Media Manager I;Single;Not Approved
+200;4068576;48;Legal;Structural Analysis Engineer;Married;Not Approved
+201;6586031;22;Engineering;Research Assistant III;Single;Approved
+202;2729364;89;Training;Geologist II;Single;Approved
+203;9594677;74;Engineering;VP Sales;Married;Approved
+204;7926862;93;Services;Assistant Media Planner;Married;Not Approved
+205;2841352;64;Engineering;Junior Executive;Single;Approved
+206;5348913;66;Business Development;Staff Scientist;Single;Not Approved
+207;1695963;45;Business Development;Editor;Married;Approved
+208;2847777;44;Engineering;Chief Design Engineer;Married;Not Approved
+209;6281865;94;Sales;Account Representative II;Single;Not Approved
+210;7438550;31;Product Management;Design Engineer;Single;Not Approved
+211;5657362;48;Legal;GIS Technical Architect;Single;Not Approved
+212;1421517;60;Business Development;Help Desk Technician;Married;Not Approved
+213;7379799;79;Engineering;VP Marketing;Married;Approved
+214;5989736;30;Legal;Chief Design Engineer;Married;Not Approved
+215;171453;42;Human Resources;Senior Cost Accountant;Married;Approved
+216;8667394;62;Support;Quality Engineer;Married;Approved
+217;6819160;68;Training;Assistant Media Planner;Single;Not Approved
+218;4696972;46;Training;Analog Circuit Design manager;Single;Not Approved
+219;299843;31;Engineering;Social Worker;Married;Not Approved
+220;3776225;27;Accounting;Office Assistant II;Married;Approved
+221;3275028;60;Business Development;Office Assistant I;Single;Not Approved
+222;6769296;99;Marketing;Web Designer I;Single;Approved
+223;5391212;99;Research and Development;Structural Analysis Engineer;Single;Not Approved
+224;7235965;67;Research and Development;Staff Accountant IV;Single;Approved
+225;4286477;88;Business Development;Human Resources Manager;Married;Not Approved
+226;4435533;21;Services;Systems Administrator III;Married;Not Approved
+227;5036992;58;Engineering;Analyst Programmer;Married;Approved
+228;812781;69;Legal;Teacher;Single;Not Approved
+229;7397660;66;Legal;Senior Sales Associate;Married;Not Approved
+230;9052047;60;Training;Librarian;Single;Not Approved
+231;2778156;95;Services;Associate Professor;Single;Approved
+232;8036748;60;Product Management;Accounting Assistant III;Single;Not Approved
+233;4814640;95;Services;Senior Sales Associate;Single;Not Approved
+234;5579596;62;Business Development;Structural Analysis Engineer;Married;Not Approved
+235;9324250;26;Product Management;Sales Associate;Single;Not Approved
+236;5063801;41;Marketing;Senior Developer;Married;Not Approved
+237;5784446;67;Human Resources;Food Chemist;Married;Approved
+238;6906602;45;Marketing;Marketing Assistant;Married;Not Approved
+239;581954;46;Legal;Assistant Professor;Single;Approved
+240;8398631;82;Support;Analog Circuit Design manager;Single;Approved
+241;4788940;47;Human Resources;Human Resources Assistant IV;Married;Not Approved
+242;8797822;72;Human Resources;Sales Representative;Single;Approved
+243;6988841;88;Accounting;Programmer Analyst I;Married;Approved
+244;6359689;35;Research and Development;Internal Auditor;Single;Not Approved
+245;9802916;28;Sales;Marketing Assistant;Single;Approved
+246;1603349;42;Legal;Automation Specialist I;Married;Not Approved
+247;8052917;73;Training;Junior Executive;Married;Approved
+248;1269128;73;Human Resources;Executive Secretary;Married;Approved
+249;8948726;87;Legal;Operator;Single;Approved
+250;4931951;90;Training;Analyst Programmer;Married;Not Approved
+251;1258539;65;Research and Development;VP Accounting;Married;Not Approved
+252;3980934;91;Business Development;Nuclear Power Engineer;Married;Not Approved
+253;5418024;80;Services;Senior Quality Engineer;Married;Approved
+254;8214086;20;Marketing;Assistant Media Planner;Married;Approved
+255;5411338;89;Marketing;Senior Cost Accountant;Single;Not Approved
+256;8311041;55;Sales;Web Developer III;Married;Not Approved
+257;5562185;40;Business Development;Legal Assistant;Married;Approved
+258;8519912;81;Training;Chief Design Engineer;Single;Approved
+259;4548688;37;Marketing;Community Outreach Specialist;Single;Not Approved
+260;845873;22;Product Management;Data Coordiator;Single;Approved
+261;785600;50;Human Resources;Executive Secretary;Single;Not Approved
+262;7477752;93;Sales;Assistant Professor;Single;Approved
+263;1121415;61;Human Resources;Teacher;Married;Not Approved
+264;8036178;91;Engineering;Health Coach III;Single;Not Approved
+265;9061987;76;Support;Marketing Manager;Single;Approved
+266;3565659;27;Support;Senior Editor;Single;Approved
+267;3340094;83;Business Development;Environmental Tech;Single;Approved
+268;497043;27;Product Management;Administrative Assistant III;Single;Not Approved
+269;1423555;34;Accounting;Safety Technician I;Single;Not Approved
+270;4805275;81;Marketing;Tax Accountant;Single;Not Approved
+271;9647747;83;Sales;Social Worker;Married;Not Approved
+272;8430269;30;Research and Development;Operator;Single;Approved
+273;7250060;100;Services;Human Resources Assistant III;Married;Not Approved
+274;2436651;36;Business Development;Chief Design Engineer;Married;Not Approved
+275;1448361;34;Services;Assistant Manager;Married;Approved
+276;4915556;93;Human Resources;Software Test Engineer I;Married;Approved
+277;4490377;39;Marketing;Web Designer I;Married;Not Approved
+278;4802415;31;Product Management;Help Desk Technician;Married;Not Approved
+279;457861;90;Engineering;Systems Administrator I;Married;Approved
+280;3046473;82;Support;Financial Advisor;Single;Not Approved
+281;1318298;88;Legal;Quality Control Specialist;Single;Approved
+282;8646714;28;Engineering;Quality Engineer;Single;Not Approved
+283;6375473;40;Support;Database Administrator IV;Married;Approved
+284;8347861;96;Training;Social Worker;Married;Not Approved
+285;8059869;77;Accounting;General Manager;Single;Not Approved
+286;2006907;88;Sales;Payment Adjustment Coordinator;Single;Approved
+287;5059578;34;Business Development;Electrical Engineer;Married;Approved
+288;9254416;58;Legal;VP Marketing;Single;Not Approved
+289;7418587;77;Engineering;Director of Sales;Married;Approved
+290;2604128;20;Research and Development;Marketing Manager;Single;Not Approved
+291;3835469;88;Human Resources;Software Test Engineer II;Single;Not Approved
+292;3041024;42;Product Management;Internal Auditor;Married;Approved
+293;1739646;73;Human Resources;Office Assistant I;Married;Approved
+294;7941835;71;Human Resources;Human Resources Manager;Single;Not Approved
+295;967022;58;Legal;Data Coordiator;Married;Approved
+296;1332297;29;Services;Marketing Manager;Single;Approved
+297;4510893;57;Research and Development;Geologist II;Married;Approved
+298;4601391;60;Support;Quality Engineer;Single;Approved
+299;4969895;65;Legal;Data Coordiator;Married;Approved
+300;7495117;75;Engineering;Junior Executive;Married;Not Approved
+301;9631707;20;Engineering;Computer Systems Analyst III;Single;Approved
+302;351637;57;Legal;Editor;Married;Approved
+303;9330880;32;Business Development;Chief Design Engineer;Married;Not Approved
+304;9480901;61;Marketing;Desktop Support Technician;Single;Not Approved
+305;1791820;98;Training;VP Quality Control;Single;Approved
+306;3450988;95;Human Resources;Systems Administrator III;Married;Not Approved
+307;5100692;65;Research and Development;Chief Design Engineer;Married;Approved
+308;8041180;45;Services;Account Coordinator;Married;Approved
+309;8549197;85;Product Management;Sales Representative;Single;Not Approved
+310;3035500;54;Training;Social Worker;Single;Not Approved
+311;7259791;65;Research and Development;Occupational Therapist;Single;Not Approved
+312;6800796;77;Legal;VP Product Management;Married;Approved
+313;3238191;45;Legal;Help Desk Technician;Single;Approved
+314;8179686;42;Human Resources;Quality Engineer;Married;Approved
+315;612681;55;Research and Development;Actuary;Single;Not Approved
+316;3515048;92;Accounting;Mechanical Systems Engineer;Married;Approved
+317;8201908;91;Product Management;Web Developer II;Single;Approved
+318;422005;49;Services;Media Manager I;Married;Not Approved
+319;4335688;82;Engineering;Chief Design Engineer;Married;Approved
+320;8923533;33;Support;Human Resources Manager;Single;Not Approved
+321;1254619;57;Human Resources;Health Coach II;Single;Not Approved
+322;653129;70;Support;Senior Quality Engineer;Married;Not Approved
+323;3893500;90;Accounting;Computer Systems Analyst III;Single;Not Approved
+324;8319085;24;Services;Electrical Engineer;Single;Not Approved
+325;1972187;42;Support;Recruiting Manager;Single;Approved
+326;8849742;92;Training;Actuary;Single;Approved
+327;5000567;29;Legal;Technical Writer;Single;Approved
+328;9403757;70;Support;Assistant Manager;Single;Not Approved
+329;2366433;90;Sales;Accountant I;Single;Not Approved
+330;1488516;47;Research and Development;Occupational Therapist;Single;Approved
+331;9342856;24;Business Development;Structural Engineer;Single;Not Approved
+332;5405667;86;Accounting;Chemical Engineer;Married;Approved
+333;9205017;35;Accounting;Nurse Practicioner;Married;Not Approved
+334;5032154;23;Engineering;Internal Auditor;Married;Approved
+335;1305657;69;Support;Programmer Analyst IV;Married;Not Approved
+336;8017119;88;Accounting;Desktop Support Technician;Married;Approved
+337;8095606;65;Product Management;Administrative Officer;Married;Not Approved
+338;1491900;29;Research and Development;Technical Writer;Married;Approved
+339;6180652;63;Accounting;Developer I;Single;Approved
+340;4758936;49;Legal;Cost Accountant;Married;Not Approved
+341;2066044;25;Business Development;Senior Editor;Single;Not Approved
+342;65106;32;Support;Cost Accountant;Single;Approved
+343;4216202;52;Training;Paralegal;Married;Not Approved
+344;3932877;20;Human Resources;Technical Writer;Married;Approved
+345;5342559;27;Support;Clinical Specialist;Married;Not Approved
+346;7258967;96;Training;Senior Cost Accountant;Married;Not Approved
+347;7578725;67;Research and Development;VP Product Management;Single;Approved
+348;7096258;51;Product Management;Professor;Single;Not Approved
+349;406997;49;Business Development;VP Accounting;Single;Not Approved
+350;4730444;65;Research and Development;Web Designer IV;Married;Approved
+351;5100433;78;Legal;Software Consultant;Married;Not Approved
+352;6012557;35;Marketing;Technical Writer;Single;Approved
+353;3766772;86;Research and Development;Accountant IV;Single;Approved
+354;7139732;80;Services;Professor;Married;Approved
+355;837430;81;Engineering;Human Resources Assistant III;Married;Approved
+356;1499528;74;Marketing;Senior Sales Associate;Married;Not Approved
+357;107899;48;Legal;Administrative Officer;Married;Not Approved
+358;7925269;61;Product Management;Administrative Assistant II;Married;Approved
+359;3180466;87;Business Development;Human Resources Assistant II;Married;Approved
+360;1144173;57;Engineering;Engineer IV;Single;Approved
+361;7380987;56;Marketing;Staff Accountant I;Single;Approved
+362;8928979;73;Support;Electrical Engineer;Single;Not Approved
+363;2160473;66;Accounting;Web Developer II;Married;Approved
+364;3349145;66;Engineering;Senior Editor;Single;Not Approved
+365;3150683;38;Sales;Director of Sales;Single;Not Approved
+366;9035419;79;Product Management;Structural Analysis Engineer;Married;Not Approved
+367;5328044;26;Sales;Marketing Manager;Married;Approved
+368;1056098;34;Marketing;Analyst Programmer;Single;Approved
+369;9418921;66;Product Management;Web Developer II;Single;Not Approved
+370;4079893;73;Engineering;Recruiting Manager;Single;Approved
+371;1771753;92;Research and Development;Media Manager II;Single;Not Approved
+372;1315473;27;Sales;Paralegal;Single;Not Approved
+373;4844136;90;Training;Physical Therapy Assistant;Married;Approved
+374;3238692;59;Support;Nuclear Power Engineer;Single;Not Approved
+375;112524;91;Human Resources;Junior Executive;Single;Not Approved
+376;3592457;99;Services;Media Manager I;Married;Not Approved
+377;7610410;68;Accounting;VP Accounting;Married;Approved
+378;8761358;77;Engineering;Environmental Tech;Married;Approved
+379;134919;97;Services;Physical Therapy Assistant;Single;Approved
+380;6075346;39;Services;Help Desk Operator;Single;Approved
+381;9537472;72;Services;Compensation Analyst;Single;Not Approved
+382;989749;97;Legal;Administrative Officer;Married;Not Approved
+383;720187;20;Accounting;Statistician III;Married;Not Approved
+384;7831612;97;Support;Sales Associate;Single;Approved
+385;733006;23;Business Development;Administrative Assistant III;Married;Approved
+386;6985833;28;Business Development;Sales Representative;Single;Approved
+387;5162475;24;Legal;Assistant Media Planner;Married;Approved
+388;6910305;95;Support;Environmental Specialist;Married;Not Approved
+389;7252968;91;Engineering;Human Resources Assistant IV;Single;Approved
+390;5435049;79;Engineering;Media Manager III;Married;Approved
+391;3499114;42;Services;Recruiter;Married;Approved
+392;6200864;45;Research and Development;Research Nurse;Married;Not Approved
+393;2065309;31;Sales;Accounting Assistant IV;Single;Approved
+394;82959;76;Support;Financial Analyst;Single;Approved
+395;1602082;78;Legal;Mechanical Systems Engineer;Married;Approved
+396;7829209;77;Engineering;GIS Technical Architect;Married;Approved
+397;4964774;32;Legal;Design Engineer;Single;Not Approved
+398;2427681;69;Marketing;Database Administrator I;Married;Approved
+399;52643;78;Legal;Product Engineer;Married;Approved
+400;3800839;82;Human Resources;Nuclear Power Engineer;Married;Not Approved
+401;1421900;66;Human Resources;Research Nurse;Single;Not Approved
+402;107257;61;Engineering;Safety Technician I;Married;Approved
+403;6644134;78;Accounting;Administrative Assistant IV;Single;Approved
+404;1020699;77;Engineering;Budget/Accounting Analyst IV;Single;Approved
+405;8773368;98;Marketing;Nurse;Married;Not Approved
+406;1109124;39;Training;Biostatistician I;Single;Not Approved
+407;1357702;69;Research and Development;Developer II;Married;Approved
+408;3480055;63;Business Development;Safety Technician II;Married;Approved
+409;8116324;87;Legal;Operator;Single;Not Approved
+410;2937289;65;Research and Development;Software Test Engineer II;Married;Approved
+411;3673925;65;Human Resources;Recruiting Manager;Single;Not Approved
+412;2689942;66;Support;Senior Financial Analyst;Married;Approved
+413;1953599;28;Sales;Assistant Manager;Single;Approved
+414;8010150;85;Legal;Software Consultant;Single;Approved
+415;5925957;92;Legal;Systems Administrator II;Married;Not Approved
+416;9891033;55;Support;Statistician I;Married;Not Approved
+417;8356030;68;Services;Data Coordiator;Single;Not Approved
+418;4230978;64;Training;Teacher;Married;Not Approved
+419;3816962;93;Business Development;Geologist IV;Single;Approved
+420;8542481;93;Legal;Account Executive;Married;Approved
+421;1242785;23;Business Development;Accounting Assistant IV;Married;Not Approved
+422;1017056;22;Support;Statistician II;Single;Approved
+423;2789752;50;Business Development;Food Chemist;Married;Not Approved
+424;5512350;58;Human Resources;Human Resources Manager;Married;Not Approved
+425;9236003;69;Human Resources;Information Systems Manager;Single;Not Approved
+426;6875985;37;Human Resources;Sales Representative;Single;Not Approved
+427;6715476;59;Marketing;GIS Technical Architect;Married;Not Approved
+428;3397277;59;Research and Development;Internal Auditor;Married;Approved
+429;8326299;36;Engineering;Physical Therapy Assistant;Married;Approved
+430;613474;39;Sales;Health Coach II;Married;Approved
+431;5060615;86;Services;Systems Administrator II;Married;Not Approved
+432;7197777;25;Training;Civil Engineer;Single;Not Approved
+433;7420855;91;Legal;Senior Developer;Single;Not Approved
+434;8540067;84;Engineering;Clinical Specialist;Single;Approved
+435;7817096;85;Human Resources;Research Nurse;Married;Approved
+436;6764976;80;Product Management;Help Desk Technician;Married;Not Approved
+437;580330;46;Engineering;Assistant Professor;Married;Approved
+438;654362;49;Research and Development;Registered Nurse;Married;Approved
+439;2015037;67;Human Resources;Food Chemist;Single;Approved
+440;4036365;82;Engineering;Statistician II;Single;Approved
+441;6798627;82;Legal;General Manager;Married;Not Approved
+442;2190839;91;Marketing;Junior Executive;Single;Approved
+443;9763229;98;Marketing;Budget/Accounting Analyst III;Single;Approved
+444;9924758;49;Human Resources;Tax Accountant;Single;Approved
+445;5338887;41;Human Resources;Product Engineer;Single;Not Approved
+446;5741224;78;Sales;Social Worker;Single;Approved
+447;4734788;62;Research and Development;Nurse Practicioner;Single;Not Approved
+448;7537154;68;Business Development;Mechanical Systems Engineer;Married;Not Approved
+449;2047011;22;Business Development;Software Engineer IV;Single;Approved
+450;6172695;83;Human Resources;Actuary;Married;Not Approved
+451;7361347;71;Human Resources;Actuary;Single;Approved
+452;5534164;85;Human Resources;Account Coordinator;Single;Approved
+453;6987147;100;Human Resources;GIS Technical Architect;Married;Approved
+454;6177744;59;Accounting;Software Consultant;Married;Not Approved
+455;1010234;86;Product Management;Sales Representative;Single;Not Approved
+456;8558451;59;Human Resources;Office Assistant II;Married;Not Approved
+457;2209356;67;Marketing;Geologist I;Married;Not Approved
+458;7767547;93;Sales;VP Quality Control;Married;Approved
+459;2146134;58;Business Development;Physical Therapy Assistant;Single;Approved
+460;489687;42;Research and Development;Clinical Specialist;Single;Not Approved
+461;7383334;50;Support;Pharmacist;Single;Not Approved
+462;7528459;80;Sales;Programmer I;Single;Approved
+463;3423357;34;Services;Software Consultant;Single;Not Approved
+464;1808176;81;Training;Internal Auditor;Married;Approved
+465;5374801;57;Training;Database Administrator II;Married;Approved
+466;253438;22;Engineering;VP Accounting;Married;Approved
+467;6653611;53;Legal;Recruiting Manager;Married;Not Approved
+468;9645438;53;Sales;Legal Assistant;Single;Approved
+469;7121360;65;Support;Pharmacist;Single;Not Approved
+470;9212233;57;Engineering;Analyst Programmer;Married;Not Approved
+471;3464929;98;Services;Electrical Engineer;Single;Not Approved
+472;4000860;83;Sales;Administrative Assistant I;Single;Not Approved
+473;4814394;70;Accounting;Staff Accountant III;Single;Not Approved
+474;9140150;40;Product Management;Professor;Single;Not Approved
+475;1402644;80;Engineering;Financial Analyst;Married;Approved
+476;9227922;31;Legal;Graphic Designer;Married;Approved
+477;609248;79;Services;Automation Specialist II;Single;Not Approved
+478;1841315;56;Research and Development;Actuary;Single;Approved
+479;6209414;70;Engineering;Tax Accountant;Married;Approved
+480;5247208;80;Training;Electrical Engineer;Married;Approved
+481;8661308;81;Engineering;Financial Advisor;Married;Approved
+482;6367242;93;Services;Statistician II;Single;Approved
+483;3138964;22;Sales;Sales Associate;Married;Approved
+484;4202530;71;Sales;Accounting Assistant II;Married;Not Approved
+485;5176276;82;Accounting;Senior Sales Associate;Married;Approved
+486;5655737;64;Legal;Registered Nurse;Married;Approved
+487;2941596;40;Sales;Geologist III;Single;Approved
+488;7373206;46;Sales;Research Assistant I;Single;Approved
+489;6737208;20;Training;Design Engineer;Married;Not Approved
+490;9023095;36;Services;Safety Technician I;Married;Approved
+491;6502424;68;Legal;Human Resources Assistant I;Single;Not Approved
+492;4280505;94;Sales;Project Manager;Married;Approved
+493;1079379;32;Legal;Office Assistant I;Single;Approved
+494;1960822;25;Accounting;Speech Pathologist;Married;Not Approved
+495;3088725;73;Services;Business Systems Development Analyst;Single;Not Approved
+496;1049183;89;Engineering;Desktop Support Technician;Married;Approved
+497;6280210;74;Sales;Geologist IV;Single;Approved
+498;2082396;71;Business Development;Nurse Practicioner;Single;Approved
+499;921735;64;Human Resources;Senior Quality Engineer;Single;Not Approved
+500;880167;41;Services;VP Sales;Single;Approved
+501;9429339;75;Human Resources;Programmer I;Single;Approved
+502;241117;37;Support;Desktop Support Technician;Married;Approved
+503;926281;65;Human Resources;Sales Associate;Single;Not Approved
+504;6146812;88;Legal;Database Administrator III;Single;Not Approved
+505;2360286;80;Business Development;Programmer II;Married;Approved
+506;4985688;55;Services;Speech Pathologist;Single;Approved
+507;9725347;43;Legal;Programmer Analyst III;Married;Not Approved
+508;1176053;54;Sales;Web Designer IV;Married;Not Approved
+509;5638013;20;Research and Development;Nurse;Married;Approved
+510;6782876;23;Legal;Teacher;Married;Not Approved
+511;6394498;91;Accounting;VP Marketing;Single;Not Approved
+512;6390765;68;Accounting;Health Coach III;Married;Approved
+513;9884192;23;Engineering;Dental Hygienist;Married;Approved
+514;7114120;58;Marketing;Chief Design Engineer;Single;Approved
+515;7913021;44;Product Management;Health Coach I;Single;Approved
+516;5656369;36;Accounting;Quality Control Specialist;Single;Not Approved
+517;6683708;98;Sales;Dental Hygienist;Single;Not Approved
+518;3193317;30;Accounting;Librarian;Married;Not Approved
+519;1711194;82;Business Development;Administrative Officer;Married;Approved
+520;8200554;81;Legal;Desktop Support Technician;Single;Approved
+521;7406798;49;Services;Information Systems Manager;Single;Approved
+522;4863420;44;Support;Systems Administrator I;Single;Approved
+523;9115002;84;Services;Account Executive;Married;Not Approved
+524;9168891;94;Business Development;VP Quality Control;Single;Approved
+525;1320694;86;Business Development;Structural Engineer;Single;Approved
+526;5223251;20;Engineering;VP Quality Control;Single;Approved
+527;4643100;40;Legal;Assistant Professor;Married;Approved
+528;6598520;89;Legal;Marketing Assistant;Married;Not Approved
+529;5297444;40;Research and Development;Senior Sales Associate;Single;Approved
+530;8618817;97;Business Development;Civil Engineer;Married;Approved
+531;7802925;80;Sales;Civil Engineer;Married;Approved
+532;267413;30;Product Management;Nurse;Married;Not Approved
+533;6763130;25;Human Resources;VP Marketing;Married;Approved
+534;4503493;27;Legal;Senior Developer;Married;Approved
+535;2663349;71;Accounting;Marketing Assistant;Single;Approved
+536;7725944;33;Sales;Research Nurse;Single;Not Approved
+537;3013701;95;Human Resources;Software Test Engineer IV;Married;Approved
+538;9852675;92;Human Resources;Developer IV;Married;Not Approved
+539;1359071;24;Services;Paralegal;Married;Not Approved
+540;9563456;79;Human Resources;Editor;Single;Approved
+541;5831930;54;Human Resources;Senior Quality Engineer;Single;Not Approved
+542;4591153;54;Human Resources;Clinical Specialist;Married;Approved
+543;3335568;81;Legal;Systems Administrator III;Single;Not Approved
+544;9231406;73;Services;Chief Design Engineer;Single;Not Approved
+545;8461941;37;Human Resources;Statistician II;Married;Approved
+546;7804924;60;Support;Cost Accountant;Married;Approved
+547;795260;75;Engineering;VP Product Management;Single;Not Approved
+548;4161534;27;Services;Tax Accountant;Married;Not Approved
+549;8428553;60;Accounting;Associate Professor;Single;Approved
+550;7762544;64;Marketing;Operator;Single;Not Approved
+551;1782885;77;Engineering;Registered Nurse;Married;Approved
+552;3219700;77;Support;Geologist III;Single;Approved
+553;3929244;62;Marketing;Associate Professor;Married;Not Approved
+554;2098636;55;Training;Data Coordiator;Married;Approved
+555;6332885;72;Legal;Senior Quality Engineer;Married;Approved
+556;2337423;65;Support;Software Test Engineer I;Married;Approved
+557;5807760;63;Support;Web Developer I;Married;Approved
+558;1533785;90;Engineering;Nuclear Power Engineer;Married;Not Approved
+559;4523220;74;Sales;Biostatistician I;Single;Approved
+560;809760;40;Services;Engineer I;Married;Approved
+561;864357;21;Support;Recruiting Manager;Married;Not Approved
+562;7470624;42;Marketing;Automation Specialist IV;Married;Not Approved
+563;5644989;81;Marketing;Physical Therapy Assistant;Single;Approved
+564;1318562;73;Accounting;Internal Auditor;Single;Not Approved
+565;2053677;65;Marketing;Administrative Officer;Married;Approved
+566;9414284;98;Engineering;Accounting Assistant I;Married;Not Approved
+567;542220;24;Training;Assistant Professor;Single;Approved
+568;6565833;44;Business Development;Developer III;Married;Not Approved
+569;9815493;71;Engineering;Social Worker;Single;Approved
+570;6138397;94;Training;Marketing Assistant;Married;Approved
+571;1350152;22;Product Management;Occupational Therapist;Married;Approved
+572;9756584;58;Product Management;Speech Pathologist;Single;Not Approved
+573;460180;77;Engineering;Software Test Engineer IV;Single;Not Approved
+574;4712396;87;Accounting;Analog Circuit Design manager;Single;Approved
+575;4645573;35;Marketing;Recruiting Manager;Married;Not Approved
+576;3631808;82;Accounting;Health Coach III;Married;Approved
+577;5415323;56;Business Development;Physical Therapy Assistant;Married;Not Approved
+578;3803712;50;Human Resources;Human Resources Assistant I;Single;Approved
+579;9422911;68;Services;Nurse;Married;Approved
+580;1831965;51;Accounting;VP Marketing;Single;Not Approved
+581;847526;61;Engineering;Business Systems Development Analyst;Married;Not Approved
+582;2465410;63;Product Management;Nurse Practicioner;Married;Approved
+583;3592329;87;Marketing;Occupational Therapist;Married;Approved
+584;7196326;31;Accounting;Librarian;Married;Not Approved
+585;2178272;70;Services;Executive Secretary;Single;Not Approved
+586;1515077;79;Business Development;Health Coach III;Married;Not Approved
+587;9949666;35;Engineering;Geologist III;Married;Not Approved
+588;1703840;59;Sales;Design Engineer;Married;Not Approved
+589;2714967;59;Human Resources;Nurse Practicioner;Single;Not Approved
+590;4439927;30;Engineering;Community Outreach Specialist;Married;Approved
+591;306099;71;Marketing;Senior Sales Associate;Married;Approved
+592;9499137;74;Legal;Web Designer II;Married;Approved
+593;3176262;82;Accounting;Food Chemist;Single;Approved
+594;2641603;50;Product Management;Research Associate;Married;Not Approved
+595;6086373;51;Marketing;Environmental Tech;Single;Approved
+596;9711448;40;Product Management;Database Administrator III;Married;Not Approved
+597;4871435;58;Product Management;Occupational Therapist;Married;Approved
+598;6140861;24;Legal;Professor;Single;Not Approved
+599;4660536;51;Engineering;Senior Financial Analyst;Married;Approved
+600;4231430;73;Business Development;Social Worker;Single;Approved
+601;5959111;59;Marketing;Internal Auditor;Married;Not Approved
+602;6341291;70;Engineering;Design Engineer;Single;Not Approved
+603;2058534;25;Accounting;Assistant Professor;Married;Approved
+604;8182744;97;Services;Social Worker;Single;Not Approved
+605;4384460;81;Engineering;Social Worker;Single;Not Approved
+606;654907;52;Support;Computer Systems Analyst IV;Single;Approved
+607;5749563;91;Engineering;Senior Quality Engineer;Married;Not Approved
+608;4878362;45;Accounting;Product Engineer;Married;Approved
+609;9312497;37;Business Development;Social Worker;Single;Not Approved
+610;9104728;21;Sales;Research Assistant IV;Married;Approved
+611;3400505;45;Engineering;General Manager;Married;Approved
+612;9237894;75;Sales;Research Assistant IV;Single;Not Approved
+613;6843167;88;Accounting;Junior Executive;Married;Not Approved
+614;6308327;20;Legal;Structural Engineer;Married;Approved
+615;9959051;57;Support;Environmental Tech;Single;Not Approved
+616;1953231;36;Accounting;Statistician III;Single;Approved
+617;7836146;59;Human Resources;Marketing Assistant;Single;Approved
+618;9204042;70;Accounting;Engineer II;Married;Approved
+619;1456208;34;Human Resources;Account Representative III;Married;Not Approved
+620;4835305;96;Research and Development;Human Resources Manager;Married;Approved
+621;5066143;41;Engineering;Database Administrator II;Married;Approved
+622;355518;23;Research and Development;Research Associate;Single;Approved
+623;8356366;39;Legal;Chief Design Engineer;Single;Not Approved
+624;2515424;53;Research and Development;Senior Quality Engineer;Married;Not Approved
+625;9021975;64;Human Resources;Safety Technician III;Married;Not Approved
+626;8954927;90;Business Development;Administrative Assistant II;Single;Not Approved
+627;4964345;34;Training;Compensation Analyst;Single;Approved
+628;3910107;59;Sales;Automation Specialist III;Single;Not Approved
+629;200056;23;Business Development;Safety Technician I;Married;Approved
+630;8707156;57;Research and Development;Assistant Manager;Married;Approved
+631;4832991;87;Research and Development;GIS Technical Architect;Married;Not Approved
+632;3934842;100;Human Resources;VP Quality Control;Single;Approved
+633;1090204;97;Engineering;Developer II;Married;Not Approved
+634;7766472;87;Marketing;Assistant Manager;Single;Approved
+635;3761776;43;Product Management;Staff Accountant III;Married;Not Approved
+636;7689290;69;Research and Development;Clinical Specialist;Married;Approved
+637;1480214;35;Business Development;Help Desk Technician;Married;Approved
+638;2132682;48;Legal;Marketing Assistant;Single;Not Approved
+639;8695431;67;Product Management;Speech Pathologist;Single;Not Approved
+640;4072147;73;Business Development;Account Executive;Single;Approved
+641;3159583;39;Training;Account Coordinator;Single;Approved
+642;9012326;27;Accounting;Administrative Assistant IV;Married;Approved
+643;8915296;71;Research and Development;Compensation Analyst;Married;Approved
+644;8071875;44;Legal;Structural Engineer;Single;Not Approved
+645;3008643;75;Training;Chemical Engineer;Married;Not Approved
+646;989040;88;Legal;Engineer IV;Single;Approved
+647;6782062;57;Business Development;Database Administrator I;Married;Not Approved
+648;2350078;73;Training;Recruiting Manager;Married;Approved
+649;2531863;91;Business Development;VP Accounting;Married;Approved
+650;5903524;46;Support;Account Executive;Married;Not Approved
+651;4324803;65;Training;Account Executive;Married;Not Approved
+652;6580933;75;Marketing;Food Chemist;Single;Not Approved
+653;3817801;42;Services;Paralegal;Single;Not Approved
+654;7925342;75;Research and Development;Internal Auditor;Married;Approved
+655;4395710;56;Support;Internal Auditor;Single;Not Approved
+656;505805;91;Accounting;Administrative Assistant II;Single;Approved
+657;9609609;95;Business Development;Clinical Specialist;Single;Not Approved
+658;4505607;54;Services;Physical Therapy Assistant;Married;Not Approved
+659;9269756;65;Support;Chemical Engineer;Single;Approved
+660;8378911;39;Training;Quality Engineer;Single;Not Approved
+661;114908;34;Product Management;Human Resources Assistant II;Single;Not Approved
+662;43719;96;Sales;Professor;Married;Approved
+663;1728769;85;Training;Account Executive;Single;Approved
+664;2118868;93;Human Resources;Compensation Analyst;Single;Approved
+665;7484152;76;Marketing;Automation Specialist II;Married;Approved
+666;9240052;71;Engineering;Quality Control Specialist;Married;Approved
+667;5072750;68;Accounting;Senior Sales Associate;Married;Approved
+668;5731686;51;Engineering;Developer I;Single;Not Approved
+669;9666802;20;Legal;Sales Representative;Married;Approved
+670;429706;73;Accounting;VP Accounting;Married;Approved
+671;1574415;67;Business Development;Product Engineer;Married;Approved
+672;5241330;79;Marketing;Accounting Assistant I;Married;Not Approved
+673;6866036;76;Research and Development;Programmer IV;Married;Approved
+674;6042229;94;Marketing;Nurse;Married;Not Approved
+675;4343361;71;Support;General Manager;Married;Not Approved
+676;8899915;51;Human Resources;Sales Representative;Single;Approved
+677;7483444;45;Sales;Web Designer II;Married;Approved
+678;1141402;99;Legal;Paralegal;Married;Approved
+679;8673856;43;Engineering;Legal Assistant;Married;Approved
+680;1643805;51;Engineering;Help Desk Operator;Single;Not Approved
+681;831582;94;Accounting;Office Assistant I;Married;Not Approved
+682;3075958;63;Human Resources;Associate Professor;Married;Not Approved
+683;930119;46;Legal;Mechanical Systems Engineer;Married;Not Approved
+684;5068870;61;Human Resources;Executive Secretary;Married;Not Approved
+685;6357226;58;Legal;Editor;Married;Not Approved
+686;8098753;30;Research and Development;Marketing Manager;Single;Approved
+687;8874214;76;Legal;Assistant Media Planner;Single;Approved
+688;4393359;71;Research and Development;Computer Systems Analyst IV;Married;Not Approved
+689;2936899;27;Marketing;Sales Associate;Married;Approved
+690;1383523;93;Engineering;Mechanical Systems Engineer;Single;Not Approved
+691;813242;50;Research and Development;Staff Scientist;Single;Not Approved
+692;5809033;64;Human Resources;Nurse;Single;Not Approved
+693;8172349;39;Human Resources;Nuclear Power Engineer;Single;Not Approved
+694;5510250;52;Marketing;Paralegal;Single;Approved
+695;4162613;62;Training;Sales Representative;Single;Not Approved
+696;6125511;64;Accounting;Food Chemist;Married;Approved
+697;3293444;89;Human Resources;Quality Control Specialist;Married;Approved
+698;1657778;74;Human Resources;Analog Circuit Design manager;Single;Approved
+699;4206662;45;Business Development;VP Accounting;Married;Not Approved
+700;4354153;31;Engineering;Occupational Therapist;Single;Not Approved
+701;2278714;55;Accounting;Human Resources Manager;Married;Approved
+702;8991184;72;Engineering;Administrative Assistant III;Single;Approved
+703;698204;73;Research and Development;Senior Financial Analyst;Married;Not Approved
+704;854151;42;Marketing;Financial Analyst;Single;Not Approved
+705;3638459;93;Services;Electrical Engineer;Married;Approved
+706;9078496;99;Business Development;Recruiter;Married;Approved
+707;4991572;43;Engineering;Media Manager III;Single;Not Approved
+708;2744946;36;Human Resources;Help Desk Technician;Married;Approved
+709;6875233;35;Human Resources;Assistant Manager;Married;Approved
+710;7234034;95;Research and Development;Nurse;Married;Not Approved
+711;3250459;72;Business Development;Graphic Designer;Married;Approved
+712;4226284;23;Sales;Health Coach I;Married;Approved
+713;2785952;54;Product Management;Web Developer IV;Single;Approved
+714;3484306;32;Sales;Registered Nurse;Married;Not Approved
+715;9174846;23;Product Management;Environmental Tech;Single;Not Approved
+716;396987;66;Marketing;Environmental Specialist;Single;Approved
+717;4991069;79;Accounting;Community Outreach Specialist;Single;Not Approved
+718;6001731;27;Legal;Physical Therapy Assistant;Married;Not Approved
+719;3426862;76;Services;Software Test Engineer I;Single;Not Approved
+720;960498;89;Accounting;Sales Associate;Married;Approved
+721;6683095;62;Human Resources;Business Systems Development Analyst;Single;Approved
+722;550006;39;Services;Web Developer II;Single;Not Approved
+723;3006948;52;Services;Dental Hygienist;Single;Not Approved
+724;8188270;47;Product Management;VP Quality Control;Married;Not Approved
+725;8599249;82;Training;Nurse;Married;Not Approved
+726;7122638;71;Research and Development;Desktop Support Technician;Married;Not Approved
+727;6475056;63;Human Resources;Chief Design Engineer;Single;Approved
+728;9690940;22;Sales;Professor;Single;Approved
+729;1278598;62;Support;Nuclear Power Engineer;Married;Not Approved
+730;5354212;37;Product Management;Programmer III;Married;Approved
+731;3173374;75;Services;Food Chemist;Married;Not Approved
+732;1870736;70;Product Management;Administrative Officer;Married;Not Approved
+733;9566175;59;Research and Development;Food Chemist;Married;Approved
+734;8149451;43;Business Development;Recruiter;Married;Approved
+735;2026538;88;Sales;Account Representative IV;Single;Not Approved
+736;6553120;61;Accounting;Software Engineer IV;Single;Not Approved
+737;2820571;89;Sales;Recruiting Manager;Married;Approved
+738;3807936;76;Accounting;Editor;Married;Approved
+739;7062784;24;Support;Librarian;Single;Not Approved
+740;8829853;63;Marketing;Budget/Accounting Analyst II;Married;Approved
+741;4043550;94;Marketing;VP Quality Control;Single;Not Approved
+742;2457261;75;Training;Technical Writer;Single;Approved
+743;4603548;91;Legal;Quality Engineer;Single;Not Approved
+744;8627510;61;Business Development;Actuary;Married;Not Approved
+745;53303;97;Marketing;Systems Administrator IV;Single;Approved
+746;8980251;60;Business Development;Financial Analyst;Married;Not Approved
+747;2460219;83;Legal;Financial Analyst;Single;Not Approved
+748;9280946;84;Research and Development;Programmer III;Single;Not Approved
+749;3280564;32;Training;Assistant Professor;Single;Approved
+750;6754991;84;Legal;Account Representative II;Single;Approved
+751;3078763;30;Support;GIS Technical Architect;Single;Approved
+752;3571760;96;Research and Development;Graphic Designer;Married;Not Approved
+753;8449552;92;Business Development;Civil Engineer;Married;Approved
+754;1160859;24;Accounting;VP Accounting;Single;Approved
+755;2584594;54;Accounting;Business Systems Development Analyst;Married;Approved
+756;3793674;42;Human Resources;Health Coach IV;Single;Not Approved
+757;4967330;68;Accounting;Senior Cost Accountant;Single;Not Approved
+758;2462254;34;Business Development;Tax Accountant;Married;Not Approved
+759;4352261;24;Accounting;Financial Advisor;Married;Not Approved
+760;1135573;62;Sales;Assistant Professor;Single;Not Approved
+761;7477849;84;Sales;Software Engineer III;Single;Not Approved
+762;5249956;96;Services;Structural Analysis Engineer;Single;Not Approved
+763;7665395;56;Research and Development;Food Chemist;Married;Approved
+764;1988082;71;Training;Chief Design Engineer;Married;Not Approved
+765;5842494;56;Business Development;Information Systems Manager;Married;Not Approved
+766;3416908;66;Services;Structural Engineer;Single;Not Approved
+767;4502510;44;Sales;Geological Engineer;Single;Not Approved
+768;2750302;27;Product Management;Web Designer I;Single;Not Approved
+769;5770173;29;Engineering;Associate Professor;Married;Approved
+770;3140438;42;Engineering;Analyst Programmer;Married;Approved
+771;1731404;91;Sales;Dental Hygienist;Single;Approved
+772;7011540;58;Services;Technical Writer;Single;Not Approved
+773;3800471;21;Services;Payment Adjustment Coordinator;Single;Approved
+774;9773530;25;Engineering;Structural Analysis Engineer;Single;Not Approved
+775;6949571;37;Business Development;Senior Editor;Single;Approved
+776;9480793;29;Product Management;Product Engineer;Married;Approved
+777;7563696;35;Business Development;Geological Engineer;Single;Not Approved
+778;7557784;65;Services;Environmental Specialist;Married;Approved
+779;5868051;21;Legal;Payment Adjustment Coordinator;Married;Not Approved
+780;8121853;70;Engineering;Staff Scientist;Married;Approved
+781;4316969;52;Accounting;Dental Hygienist;Single;Approved
+782;5806558;59;Human Resources;Operator;Married;Not Approved
+783;8016788;22;Services;Sales Associate;Single;Approved
+784;7179317;42;Research and Development;Financial Advisor;Single;Approved
+785;1432650;98;Product Management;Senior Quality Engineer;Married;Approved
+786;3856658;80;Sales;Research Nurse;Married;Approved
+787;8055732;75;Engineering;Nurse Practicioner;Married;Not Approved
+788;1283910;71;Engineering;Staff Accountant IV;Single;Approved
+789;9874677;32;Human Resources;Senior Financial Analyst;Single;Approved
+790;3635734;31;Training;Media Manager I;Single;Approved
+791;8664830;49;Accounting;Chemical Engineer;Married;Not Approved
+792;1799125;77;Legal;Programmer Analyst I;Single;Approved
+793;3065544;78;Support;Software Engineer II;Single;Not Approved
+794;1889136;78;Business Development;Financial Advisor;Single;Approved
+795;4582594;56;Research and Development;Director of Sales;Single;Approved
+796;693843;100;Sales;Design Engineer;Single;Not Approved
+797;1109799;61;Sales;Quality Control Specialist;Single;Approved
+798;3735811;29;Training;Accountant II;Married;Not Approved
+799;4823596;45;Research and Development;Business Systems Development Analyst;Married;Not Approved
+800;1015431;28;Training;Systems Administrator II;Single;Approved
+801;8306859;25;Services;Software Engineer IV;Married;Not Approved
+802;7942221;53;Marketing;Mechanical Systems Engineer;Single;Not Approved
+803;3757433;40;Training;Assistant Professor;Married;Not Approved
+804;6239047;37;Human Resources;Chemical Engineer;Married;Not Approved
+805;3398572;26;Accounting;Account Coordinator;Single;Approved
+806;3368018;98;Human Resources;GIS Technical Architect;Single;Not Approved
+807;455435;89;Marketing;Nurse Practicioner;Single;Not Approved
+808;4932742;20;Accounting;Statistician IV;Married;Approved
+809;5772034;85;Legal;Assistant Media Planner;Married;Approved
+810;3345472;72;Sales;Internal Auditor;Single;Not Approved
+811;5830788;99;Accounting;Project Manager;Single;Not Approved
+812;8837136;29;Accounting;Software Engineer II;Married;Approved
+813;3141707;74;Services;Administrative Assistant II;Single;Approved
+814;7183044;58;Training;Sales Associate;Married;Approved
+815;2602708;79;Human Resources;Web Developer III;Married;Approved
+816;6307409;61;Product Management;Account Executive;Single;Approved
+817;125929;84;Product Management;Analyst Programmer;Single;Approved
+818;3536572;76;Legal;Human Resources Assistant II;Single;Not Approved
+819;8585461;73;Accounting;Dental Hygienist;Single;Approved
+820;2614846;81;Marketing;Environmental Tech;Married;Not Approved
+821;9055599;76;Accounting;Professor;Married;Approved
+822;4908357;90;Engineering;Tax Accountant;Married;Not Approved
+823;2472166;98;Training;Structural Engineer;Married;Approved
+824;7138182;32;Human Resources;Internal Auditor;Married;Approved
+825;9318779;51;Training;Food Chemist;Married;Not Approved
+826;4874963;80;Accounting;Executive Secretary;Married;Approved
+827;9981151;82;Human Resources;Web Developer IV;Married;Approved
+828;8736590;51;Human Resources;Web Developer IV;Married;Not Approved
+829;8652146;27;Accounting;Developer II;Single;Not Approved
+830;5302153;97;Engineering;Desktop Support Technician;Married;Not Approved
+831;76252;43;Training;Food Chemist;Single;Not Approved
+832;7059080;81;Sales;Research Nurse;Single;Approved
+833;7334334;62;Product Management;VP Sales;Single;Not Approved
+834;9531925;76;Services;Librarian;Married;Not Approved
+835;4647218;21;Product Management;Account Representative I;Married;Approved
+836;1315360;36;Support;Design Engineer;Single;Approved
+837;6306410;67;Services;Professor;Single;Approved
+838;3224495;39;Sales;Internal Auditor;Single;Approved
+839;7927409;32;Services;Electrical Engineer;Married;Approved
+840;110739;72;Accounting;Senior Quality Engineer;Single;Not Approved
+841;8528040;69;Marketing;Help Desk Operator;Married;Approved
+842;2326096;69;Product Management;Financial Analyst;Single;Approved
+843;175438;68;Legal;Nurse Practicioner;Married;Not Approved
+844;2212435;75;Services;Health Coach II;Single;Approved
+845;6451725;45;Business Development;Accounting Assistant III;Married;Approved
+846;7860172;27;Marketing;Product Engineer;Married;Not Approved
+847;2426850;77;Accounting;Payment Adjustment Coordinator;Married;Approved
+848;2438206;60;Sales;Compensation Analyst;Married;Not Approved
+849;510076;74;Accounting;Research Associate;Single;Not Approved
+850;6441157;24;Services;Junior Executive;Married;Not Approved
+851;4928320;99;Business Development;Human Resources Assistant III;Married;Not Approved
+852;156139;37;Human Resources;VP Sales;Single;Not Approved
+853;39630;28;Product Management;Financial Analyst;Married;Not Approved
+854;2042962;85;Training;Community Outreach Specialist;Married;Not Approved
+855;5122401;55;Marketing;Speech Pathologist;Single;Approved
+856;4592589;93;Legal;Chemical Engineer;Married;Not Approved
+857;2545868;32;Sales;Product Engineer;Married;Approved
+858;8469742;95;Sales;VP Accounting;Single;Not Approved
+859;82259;87;Business Development;Occupational Therapist;Married;Approved
+860;8902950;63;Human Resources;Senior Financial Analyst;Single;Approved
+861;7511934;52;Engineering;Quality Engineer;Married;Approved
+862;1458738;73;Services;Web Developer III;Single;Not Approved
+863;4377614;33;Human Resources;Mechanical Systems Engineer;Single;Approved
+864;4585151;28;Human Resources;Assistant Media Planner;Single;Not Approved
+865;6531288;27;Support;Civil Engineer;Married;Approved
+866;162387;56;Support;Assistant Media Planner;Married;Approved
+867;6576632;31;Training;Geological Engineer;Single;Not Approved
+868;4247451;47;Product Management;Marketing Assistant;Single;Approved
+869;965890;84;Research and Development;Senior Cost Accountant;Married;Approved
+870;5217590;55;Research and Development;Technical Writer;Single;Approved
+871;1370233;22;Services;Sales Associate;Single;Not Approved
+872;4115260;26;Support;Paralegal;Married;Approved
+873;1677059;72;Support;Financial Analyst;Single;Approved
+874;9504880;100;Legal;Staff Accountant I;Married;Approved
+875;316935;82;Services;Paralegal;Single;Not Approved
+876;773252;55;Sales;Developer II;Single;Not Approved
+877;2922738;42;Research and Development;Technical Writer;Single;Not Approved
+878;4839877;30;Support;Junior Executive;Single;Not Approved
+879;6538492;55;Support;Chemical Engineer;Married;Not Approved
+880;8674611;64;Support;Account Executive;Married;Approved
+881;1166813;82;Support;Actuary;Single;Approved
+882;7771622;25;Sales;Software Consultant;Married;Not Approved
+883;8828974;58;Training;Teacher;Married;Not Approved
+884;9962989;90;Research and Development;Media Manager IV;Single;Not Approved
+885;9176504;56;Sales;Nurse;Married;Approved
+886;4404131;33;Human Resources;Compensation Analyst;Married;Approved
+887;2736108;49;Marketing;Financial Analyst;Single;Not Approved
+888;9317745;59;Accounting;Account Representative III;Married;Not Approved
+889;2781660;27;Support;Software Engineer II;Married;Not Approved
+890;2574257;89;Business Development;Senior Editor;Single;Not Approved
+891;3157935;87;Services;Structural Engineer;Single;Not Approved
+892;4813742;51;Services;Administrative Assistant III;Single;Not Approved
+893;905038;50;Marketing;Web Developer IV;Married;Not Approved
+894;5034628;36;Marketing;Web Developer II;Married;Not Approved
+895;4878747;42;Legal;Accountant II;Single;Not Approved
+896;9952861;68;Legal;Financial Advisor;Single;Not Approved
+897;9674202;100;Training;Associate Professor;Single;Approved
+898;2844939;79;Services;Quality Engineer;Married;Not Approved
+899;6316153;26;Legal;Software Test Engineer I;Single;Not Approved
+900;5274749;71;Accounting;Marketing Assistant;Single;Approved
+901;8214162;79;Training;Senior Editor;Single;Not Approved
+902;5020699;34;Accounting;Payment Adjustment Coordinator;Single;Not Approved
+903;8118738;24;Engineering;Research Associate;Single;Approved
+904;4996851;39;Legal;Nurse;Single;Not Approved
+905;50076;81;Product Management;Human Resources Assistant I;Single;Approved
+906;1518047;94;Services;Product Engineer;Single;Approved
+907;9950695;34;Accounting;VP Product Management;Married;Not Approved
+908;2416822;89;Marketing;VP Marketing;Married;Approved
+909;8993982;54;Sales;Dental Hygienist;Single;Approved
+910;5939373;29;Training;Legal Assistant;Single;Not Approved
+911;2912397;99;Marketing;Graphic Designer;Married;Approved
+912;9647438;80;Legal;Help Desk Technician;Married;Approved
+913;9836534;56;Product Management;Environmental Tech;Single;Not Approved
+914;5228198;93;Research and Development;Financial Advisor;Married;Not Approved
+915;1440533;57;Research and Development;Nurse;Single;Not Approved
+916;2743071;52;Support;Health Coach II;Single;Not Approved
+917;9144432;98;Human Resources;Senior Developer;Married;Approved
+918;9690969;61;Engineering;Research Assistant I;Married;Not Approved
+919;2597658;99;Training;Pharmacist;Married;Approved
+920;9006498;46;Training;Desktop Support Technician;Single;Approved
+921;3578253;68;Product Management;Graphic Designer;Single;Approved
+922;5030286;80;Product Management;Engineer I;Single;Approved
+923;5122690;51;Training;Senior Cost Accountant;Married;Approved
+924;8159071;72;Sales;Senior Editor;Single;Not Approved
+925;4472245;31;Human Resources;General Manager;Married;Approved
+926;4464750;28;Services;Marketing Manager;Single;Approved
+927;4704914;77;Sales;Web Designer IV;Single;Not Approved
+928;1338421;92;Support;Analyst Programmer;Single;Not Approved
+929;3646480;51;Services;VP Product Management;Single;Not Approved
+930;1998063;24;Training;Assistant Media Planner;Married;Not Approved
+931;2826932;50;Marketing;Geological Engineer;Married;Approved
+932;7793335;85;Engineering;Physical Therapy Assistant;Single;Approved
+933;4649562;97;Sales;Staff Scientist;Married;Approved
+934;3342260;90;Accounting;Editor;Married;Not Approved
+935;8473418;73;Research and Development;Marketing Manager;Married;Approved
+936;2990936;90;Product Management;Chief Design Engineer;Single;Not Approved
+937;365632;56;Business Development;Computer Systems Analyst II;Married;Not Approved
+938;8775223;84;Human Resources;Senior Developer;Single;Not Approved
+939;8948806;46;Engineering;Professor;Married;Approved
+940;6730749;34;Marketing;Editor;Single;Not Approved
+941;5538790;73;Services;Geologist I;Married;Approved
+942;562931;41;Research and Development;Help Desk Technician;Married;Approved
+943;1358598;30;Engineering;Actuary;Single;Not Approved
+944;7158108;44;Support;Computer Systems Analyst IV;Single;Approved
+945;4921775;95;Legal;Pharmacist;Single;Not Approved
+946;3225416;41;Research and Development;Nurse Practicioner;Married;Not Approved
+947;998684;49;Accounting;Quality Control Specialist;Single;Not Approved
+948;6962884;20;Engineering;Physical Therapy Assistant;Single;Approved
+949;8784192;38;Legal;Help Desk Operator;Married;Not Approved
+950;260716;21;Sales;Senior Cost Accountant;Married;Not Approved
+951;6642838;100;Support;Media Manager III;Single;Not Approved
+952;8267895;50;Research and Development;GIS Technical Architect;Single;Approved
+953;7505703;21;Marketing;Actuary;Married;Approved
+954;4986669;57;Legal;Chemical Engineer;Single;Not Approved
+955;6109024;30;Business Development;Health Coach I;Single;Approved
+956;509960;70;Human Resources;Staff Scientist;Married;Approved
+957;2864132;63;Human Resources;Software Engineer IV;Married;Approved
+958;7102569;88;Legal;GIS Technical Architect;Single;Not Approved
+959;295546;52;Sales;Teacher;Married;Approved
+960;6024887;53;Product Management;Junior Executive;Married;Not Approved
+961;4145235;95;Accounting;Tax Accountant;Married;Approved
+962;5097736;34;Legal;Geologist IV;Single;Approved
+963;7709888;22;Product Management;Data Coordiator;Married;Approved
+964;4417714;87;Research and Development;Human Resources Manager;Single;Not Approved
+965;6065768;65;Business Development;Environmental Specialist;Married;Not Approved
+966;459767;57;Business Development;Media Manager III;Single;Not Approved
+967;5718296;93;Marketing;Chemical Engineer;Married;Not Approved
+968;661687;25;Human Resources;Business Systems Development Analyst;Single;Approved
+969;9456490;21;Accounting;Clinical Specialist;Single;Not Approved
+970;9132016;43;Human Resources;General Manager;Single;Not Approved
+971;2817151;72;Research and Development;Computer Systems Analyst I;Married;Approved
+972;1272248;57;Marketing;Pharmacist;Married;Approved
+973;8436864;77;Research and Development;Civil Engineer;Single;Approved
+974;8628383;22;Business Development;Occupational Therapist;Married;Not Approved
+975;2191558;32;Research and Development;Recruiter;Married;Approved
+976;6162478;69;Sales;VP Sales;Married;Approved
+977;6428018;65;Sales;Nurse;Married;Approved
+978;7159967;57;Sales;Recruiting Manager;Married;Not Approved
+979;2339979;74;Legal;Assistant Manager;Married;Approved
+980;5009977;64;Services;Account Coordinator;Single;Approved
+981;7912583;85;Training;Analyst Programmer;Married;Approved
+982;9396725;37;Services;Sales Associate;Married;Not Approved
+983;8143128;100;Sales;Teacher;Married;Approved
+984;8143013;65;Accounting;Staff Scientist;Married;Approved
+985;628436;55;Support;Director of Sales;Married;Not Approved
+986;8306231;75;Business Development;Electrical Engineer;Married;Approved
+987;4952446;81;Support;VP Product Management;Married;Approved
+988;9069807;27;Business Development;VP Accounting;Single;Approved
+989;9815430;83;Product Management;Environmental Tech;Married;Not Approved
+990;2081431;80;Product Management;Desktop Support Technician;Married;Approved
+991;3430530;78;Product Management;Environmental Specialist;Single;Not Approved
+992;5934492;71;Services;Research Assistant IV;Married;Not Approved
+993;8536469;41;Research and Development;Desktop Support Technician;Married;Not Approved
+994;8678728;78;Marketing;Professor;Married;Approved
+995;7920469;93;Training;Librarian;Single;Not Approved
+996;7674214;35;Accounting;Administrative Assistant II;Single;Approved
+997;524112;46;Legal;Analog Circuit Design manager;Single;Approved
+998;237708;57;Engineering;Product Engineer;Married;Not Approved
+999;9853168;48;Accounting;Help Desk Technician;Married;Approved
+1000;4738486;47;Product Management;Electrical Engineer;Single;Approved
